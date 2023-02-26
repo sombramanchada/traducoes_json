@@ -17,4 +17,4 @@ Informações úteis sobre as traduções catalogada através de JSON.
 * Grupos que participaram da tradução
 * Autores da tradução
 * Informações sobre a ROM que o patch de tradução deve ser aplicado
-* P
+* URLs de paginas web onde é possível realizar o download do patch
