@@ -2116,6 +2116,11 @@
               "url": "https://blogdoantigeno.wordpress.com/traducoes/",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/11/gb-cliffhanger-antigeno/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -2220,6 +2225,58 @@
               "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html",
               "oficial": false,
               "possui_link_download": "versao_antiga"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon - Yellow Version - Special Pikachu Edition",
+            "desenvolvedora": "Game Freak",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1998-09-12"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "2.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2022-12-15"
+              },
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "ChocoLixo"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "tipo_patch": "IPS",
+                  "nome_arquivo_aplicar": "Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Spain) (CGB+SGB Enhanced).gb",
+                  "crc32": "964B7A10",
+                  "md5": "F0DA8B1CFF3AAB898ECDE9DCBDA6D817",
+                  "sha1": "1DC242039218FBA50928D1AFB66B70565B6B9DAF",
+                  "sha256": "55D56D6F73225886BFDC0DB1DDB754D2F4DFC6EF5AE74DDFA079C23B6EC80039"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net/translations/6636/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/09/gb-pokemon-yellow-version-special-pikachu-edition-chocolixo/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -3873,53 +3930,6 @@
         },
         {
           "jogo": {
-            "nome": "Pok\u00e9mon - Yellow Version - Special Pikachu Edition",
-            "desenvolvedora": "Game Freak",
-            "distribuidora": "Nintendo",
-            "genero": "RPG",
-            "lancamento": {
-              "precisao": "exatamente",
-              "data": "1998-09-12"
-            }
-          },
-          "versoes_traducoes": [
-            {
-              "versao": "2.0",
-              "ultima_versao": true,
-              "lancamento": {
-                "precisao": "exatamente",
-                "data": "2022-12-15"
-              },
-              "autores": [
-                {
-                  "autor": {
-                    "nome": "ChocoLixo"
-                  },
-                  "funcao": "Completo"
-                }
-              ],
-              "aplicar_patchs_em": [
-                {
-                  "tipo_patch": "IPS",
-                  "nome_arquivo_aplicar": "Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Spain) (CGB+SGB Enhanced).gb",
-                  "crc32": "964B7A10",
-                  "md5": "F0DA8B1CFF3AAB898ECDE9DCBDA6D817",
-                  "sha1": "1DC242039218FBA50928D1AFB66B70565B6B9DAF",
-                  "sha256": "55D56D6F73225886BFDC0DB1DDB754D2F4DFC6EF5AE74DDFA079C23B6EC80039"
-                }
-              ]
-            }
-          ],
-          "paginas_traducao": [
-            {
-              "url": "https://www.romhacking.net/translations/6636/",
-              "oficial": true,
-              "possui_link_download": "sim"
-            }
-          ]
-        },
-        {
-          "jogo": {
             "nome": "Driver - You are the Wheelman",
             "desenvolvedora": "Crawfish Interactive",
             "distribuidora": "Infogrames",
@@ -3968,6 +3978,11 @@
               "url": "https://www.romhacking.net/translations/3890/",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/09/gbc-driver-you-are-wheelman-firefly/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4075,6 +4090,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1180",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/06/gbc-yu-gi-oh-dark-duel-stories-gutembergh-alencar-e-redarts/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         }
@@ -4143,6 +4163,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-xs-tradu-roms/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/03/gba-crash-bandicoot-xs-tradu-roms/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4344,6 +4369,11 @@
               "url": "https://www.romhacking.net/translations/5137/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4478,6 +4508,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/metroid-fusion-tradu-roms-trans-center-e-po.b.r.e",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-metroid-fusion-tradu-roms-trans-center-e-pobre/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4679,6 +4714,11 @@
               "url": "https://www.zophar.net/translations/gameboy-advance/portuguese/bomberman-tournament.html",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/03/gba-bomberman-tournament-hexagon/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4802,6 +4842,11 @@
               "url": "https://www.romhacking.net/translations/5149/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-2-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4877,6 +4922,11 @@
               "url": "https://www.romhacking.net/translations/5150/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-3-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -4938,6 +4988,11 @@
               "url": "https://www.romhacking.net/translations/5153/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-4-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5017,6 +5072,11 @@
               "url": "https://www.romhacking.net/translations/5182/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5084,6 +5144,11 @@
               "url": "https://www.romhacking.net/translations/5183/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-2-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5157,6 +5222,11 @@
               "url": "https://www.romhacking.net/translations/5151/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-metroid-zero-mission-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5236,6 +5306,11 @@
               "url": "https://www.romhacking.net/translations/5178/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-castlevania-harmony-of-dissonance-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5488,6 +5563,11 @@
               "url": "https://www.romhacking.net/translations/5179/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5573,6 +5653,11 @@
               "url": "https://www.romhacking.net/translations/5167/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5629,6 +5714,11 @@
               "url": "https://www.romhacking.net/translations/5560/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/06/gba-drill-dozer-lone-wolf/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5775,6 +5865,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5922,6 +6017,11 @@
               "url": "https://www.romhacking.net/translations/5277/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/03/gba-legend-of-zelda-link-to-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -5989,6 +6089,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=703",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/06/gba-kirby-amazing-mirror-jumpmanclub-brasil/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6038,6 +6143,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1777",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/02/gba-yu-gi-oh-reshef-of-destruction-gutembergh-alencar/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6099,6 +6209,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1842",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/12/gba-shonen-jump-one-piece-breno-kosmus-e-denim/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6155,6 +6270,11 @@
               "url": "https://blogdochrono.blogspot.com/2019/09/traducao-de-sim-city-2000-gba.html",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/09/gba-simcity-2000-srchronotrigger/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6215,6 +6335,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1707",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/01/gba-spider-man-3-breno-denim-e-str-brasil/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6268,6 +6393,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/banjo-kazooie-gruntys-revenge-fl-loko/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/gba-banjo-kazooie-grunty-revenge-fl-loko/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6325,6 +6455,11 @@
               "url": "https://blogdoantigeno.wordpress.com/traducoes/",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/02/gba-dinotopia-timestone-pirates-antigeno/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6379,6 +6514,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/harvest-moon-friends-of-mineral-town-pinguimbozo/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/07/gba-harvest-moon-friends-of-mineral-town-pinguimbozo/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6434,6 +6574,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1826",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/05/gba-finding-nemo-breno-e-denim/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6487,6 +6632,11 @@
               "url": "https://www.romhacking.net/translations/6032/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/05/gba-pac-man-world-michaelna2005/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6547,6 +6697,11 @@
               "url": "https://www.romhacking.net/translations/6715/",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/08/gba-ultimate-spider-man-breno/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6606,6 +6761,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1577",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/08/gba-disney-lion-king-breno-kosmus-e-denim/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6701,6 +6861,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1782",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/03/gba-sims-bustin-out-kosmus-e-cia/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6749,6 +6914,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1587",
               "oficial": true,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/10/gba-mario-luigi-superstar-saga-sbraz-gamer/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6811,6 +6981,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/dead-to-rights-hnnewgames/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/gba-dead-to-rights-hnnewgames/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6872,6 +7047,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1948",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/08/gba-batman-begins-breno-e-cia/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6927,6 +7107,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1961",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/09/gba-spongebob-squarepants-supersponge-breno/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -6980,6 +7165,11 @@
               "url": "https://www.romhacking.net/translations/6134/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/06/gba-fifa-2005-michaelna2005/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
@@ -7033,6 +7223,11 @@
               "url": "https://www.romhacking.net/translations/6597/",
               "oficial": false,
               "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/07/gba-fifa-world-cup-germany-2006-michaelna2005/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         },
