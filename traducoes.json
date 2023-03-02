@@ -1588,7 +1588,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -1662,7 +1662,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -1698,7 +1698,7 @@
             {
               "url": "https://www.romhacking.net.br/index.php?topic=754",
               "oficial": true,
-              "possui_link_download": "sim"
+              "possui_link_download": "necessario_login"
             },
             {
               "url": "https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/",
@@ -1731,7 +1731,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -1795,7 +1795,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -1864,7 +1864,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -1921,7 +1921,7 @@
               "autores": [
                 {
                   "autor": {
-                    "nome": "Patryck Padilha de Oliveira",
+                    "nome": "patryckpo",
                     "urls": [
                       "https://patryckpo.com/",
                       "https://ab-gamesinc-br.blogspot.com/"
@@ -3962,7 +3962,7 @@
             {
               "url": "https://www.romhacking.net.br/index.php?topic=848",
               "oficial": true,
-              "possui_link_download": "sim"
+              "possui_link_download": "necessario_login"
             },
             {
               "url": "https://www.romhacking.net/translations/3890/",
@@ -5621,7 +5621,7 @@
           ],
           "paginas_traducao": [
             {
-              "url": "http://www.romhacking.net.br/index.php?topic=1500",
+              "url": "https://www.romhacking.net.br/index.php?topic=1500",
               "oficial": true,
               "possui_link_download": "sim"
             },
@@ -6147,7 +6147,7 @@
           ],
           "paginas_traducao": [
             {
-              "url": "http://www.romhacking.net.br/index.php?topic=1270",
+              "url": "https://www.romhacking.net.br/index.php?topic=1270",
               "oficial": true,
               "possui_link_download": "sim"
             },
@@ -6317,7 +6317,7 @@
           ],
           "paginas_traducao": [
             {
-              "url": "http://www.romhacking.net.br/index.php?topic=1003",
+              "url": "https://www.romhacking.net.br/index.php?topic=1003",
               "oficial": true,
               "possui_link_download": "necessario_login"
             },
