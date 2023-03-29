@@ -36,7 +36,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Asterix (UE) (M5) [!].gb",
                   "crc32": "097FFE2C",
                   "md5": "812DB832566202610BB1E42E643E2B93",
@@ -100,7 +99,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Battle Pingpong (J).gb",
                   "crc32": "7C787BC4",
                   "md5": "F24CCB89C3FF60F54600D7B063D5A6C2",
@@ -171,7 +169,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Bomb Jack (U).gb",
                   "crc32": "9BD8815E",
                   "md5": "7615154DC9AFB1A7D7D2FE63B76C68E4",
@@ -238,7 +235,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Bugs Bunny (U) [!].gb",
                   "crc32": "403E1B7E",
                   "md5": "43189B859C0036119F233D46B1F2E9FD",
@@ -295,7 +291,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Castlevania - Legends (U) [S].gb",
                   "crc32": "AD9C17FB",
                   "md5": "1475824E7262C0D6359F43C287E034A5",
@@ -349,7 +344,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Castlevania Adventure, The (U) [!].gb",
                   "crc32": "216E6AA1",
                   "md5": "0B4410C6B94D6359DBA5609AE9A32909",
@@ -410,7 +404,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Double Dragon 2 (U).gb",
                   "crc32": "5B96E474",
                   "md5": "4F3B84EB325F9162086FAC77AC577E7C",
@@ -433,6 +426,66 @@
             },
             {
               "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/double-dragon-2.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Double Dragon 2",
+            "desenvolvedora": "Technos",
+            "distribuidora": "Acclaim",
+            "genero": "Beat 'em up",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1990-12-07"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2011-02-27"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "tvtoon"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Double Dragon 2 (U).gb",
+                  "crc32": "5B96E474",
+                  "md5": "4F3B84EB325F9162086FAC77AC577E7C",
+                  "sha1": "3532462BE3AB1A569890261D20A1A37BFE79E1EA",
+                  "sha256": "21639689078496D4C2D000B120D493B69E7DF603E5C2B5CD337974665E597878"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/double-dragon-2-satira-po.b.r.e",
+              "oficial": true,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/double-dragon-2-rby.html",
               "oficial": false,
               "possui_link_download": "sim"
             }
@@ -476,7 +529,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Final Fantasy Legend II (U) [!].gb",
                   "crc32": "58314182",
                   "md5": "2BB0DF1B672253AAA5F9CAF9AAB78224",
@@ -540,7 +592,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Garfield Labyrinth (U).gb",
                   "crc32": "6A043ABD",
                   "md5": "5E441AF514D1BCDAEC08C133CEEA4E5E",
@@ -600,7 +651,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Mega Man - Dr. Wily's Revenge (U) [!].gb",
                   "crc32": "47E70E08",
                   "md5": "4BA4398181D98958FA7434BA7716F11A",
@@ -663,7 +713,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Mega Man - Dr. Wily's Revenge (U) [!].gb",
                   "crc32": "47E70E08",
                   "md5": "4BA4398181D98958FA7434BA7716F11A",
@@ -722,7 +771,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -736,7 +786,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Metroid II - Return of Samus (W) [!].gb",
                   "crc32": "DEE05370",
                   "md5": "9639948AD274FA15281F549E5F9C4D87",
@@ -748,14 +797,14 @@
           ],
           "paginas_traducao": [
             {
+              "url": "https://www.romhacking.net/translations/1861/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
               "url": "https://romhackers.org/traducoes/portatil/game-boy/metroid-ii-return-of-samus-trans-center/",
               "oficial": false,
               "possui_link_download": "nao"
-            },
-            {
-              "url": "https://www.romhacking.net/translations/1861/",
-              "oficial": false,
-              "possui_link_download": "versao_antiga"
             },
             {
               "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/metroid-ii-return-of-samus.html",
@@ -794,7 +843,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Ninja Gaiden Shadow (U).gb",
                   "crc32": "D3741A3A",
                   "md5": "E12C5C2897ED095F8D26C7578AFDDFDA",
@@ -853,7 +901,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Ninja Gaiden Shadow (U).gb",
                   "crc32": "D3741A3A",
                   "md5": "E12C5C2897ED095F8D26C7578AFDDFDA",
@@ -914,7 +961,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon - Blue Version (UE) [S][!].gb",
                   "crc32": "D6DA8A1A",
                   "md5": "50927E843568814F7ED45EC4F944BD8B",
@@ -979,7 +1025,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon Red (UE) [S][!].gb",
                   "crc32": "9F7FDD53",
                   "md5": "3D45C1EE9ABD5738DF46D2BDDA8B57DC",
@@ -1035,7 +1080,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Real Bout Special (J) [S].gb",
                   "crc32": "F4031D4C",
                   "md5": "4C24F644E70F0786D20D8CA9FFCEA51C",
@@ -1102,7 +1146,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "SD Saint Seiya Paradise (J).gb",
                   "crc32": "D6FE3C56",
                   "md5": "4D2EC4DA71D11F95367D9163C89B70F9",
@@ -1166,7 +1209,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Super Mario Land (JUE) (V1.1) [!].gb",
                   "crc32": "2C27EC70",
                   "md5": "B259FEB41811C7E4E1DC200167985C84",
@@ -1232,7 +1274,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Tennis (JUE) [!].gb",
                   "crc32": "5009215F",
                   "md5": "7D621DCBBCE12B73574C42F40DEEC275",
@@ -1298,7 +1339,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Tetris (JUE) (V1.1) [!].gb",
                   "crc32": "46DF91AD",
                   "md5": "982ED5D2B12A0377EB14BCDC4123744E",
@@ -1357,7 +1397,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Chessmaster, The (USA) (Rev 1).gb",
                   "crc32": "59ED370C",
                   "md5": "6B6D4A25D3C1E2890B22271C44E62DBF",
@@ -1421,7 +1460,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Sensible Soccer - European Champions (E).gb",
                   "crc32": "BD022658",
                   "md5": "3AE8ECEB23913AEB1A655DA481541A6B",
@@ -1478,7 +1516,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Final Fantasy Adventure (U).gb",
                   "crc32": "18C78B3A",
                   "md5": "24CD3BDF490EF2E1AA6A8AF380ECCD78",
@@ -1536,7 +1573,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Rolan's Curse (U) [!].gb",
                   "crc32": "1A602590",
                   "md5": "EBD1866DC6C13CA48F45538ED33EA46F",
@@ -1605,7 +1641,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Adventure Island II (UE) [!].gb",
                   "crc32": "783066CF",
                   "md5": "ED2444AFE317452E29C1C2258DA6963C",
@@ -1635,6 +1670,11 @@
               "url": "https://joao13traducoes.com/2018/07/gb-adventure-island-ii-patryck-e-ajkmetiuk/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island-ii-aliens-in-paradise.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1679,7 +1719,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Adventure Island (U).gb",
                   "crc32": "64F4FA44",
                   "md5": "D67E58BF5F39D5FB073FED85C3D9BEDE",
@@ -1704,6 +1743,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy/adventure-island-patryck/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/adventure-island.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1748,7 +1792,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Aero Star (U) [!].gb",
                   "crc32": "F6FD275E",
                   "md5": "F777A4526089A83CA758EFBF01007EC1",
@@ -1768,6 +1811,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy/aerostar-patryck/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/aerostar.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1812,7 +1860,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Takahashi Meijin no Bouken Shima III (J).gb",
                   "crc32": "F8FC0B41",
                   "md5": "A291DD1F541FAC1D57019E4A3D0FFD08",
@@ -1837,6 +1884,11 @@
               "url": "https://joao13traducoes.com/2018/07/gb-takahashi-meijin-no-boukenjima-iii-patryck-ajkmetiuk/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/takahashi-meijin-no-boukenjima-iii.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1875,7 +1927,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Addams Family, The \u2013 Pugsley\u2019s Scavenger Hunt (U).gb",
                   "crc32": "7E054A88",
                   "md5": "57726C28DC09949029A154F63B891DD0",
@@ -1895,6 +1946,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy/the-addams-family-pugsleys-scavenger-hunt-patryck/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/the-addams-family-pugsley-s-scavenger-hunt.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1932,7 +1988,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Zool (U) [!].gb",
                   "crc32": "EF54B46E",
                   "md5": "52700EA227C3A31F170CCBC6A052A7A8",
@@ -1952,6 +2007,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy/zool-ninja-of-the-nth-dimension-patryck/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/zool-ninja-of-the-nth-dimension.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -1986,7 +2046,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Rockman World 4 (J).gb",
                   "crc32": "16AEC559",
                   "md5": "401647AD59208D67507245AC13E3894C",
@@ -2040,7 +2099,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Rockman World 5 (J) [S].gb",
                   "crc32": "EEABD3C6",
                   "md5": "309FC69D5AB1D2B17D0BBC127FAF04C1",
@@ -2096,7 +2154,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Cliffhanger (UE) [!].gb",
                   "crc32": "AA133439",
                   "md5": "B33D6F65F4A566D715CE480BFFD004AD",
@@ -2152,7 +2209,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Nettou King of Fighters \u201897 (J) [S][p1].gb",
                   "crc32": "AC61EF47",
                   "md5": "E33EC62A1EDF76DEB6F86D7CD9B8165A",
@@ -2205,7 +2261,40 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
+                  "nome_arquivo_aplicar": "Castlevania II - Belmont's Revenge (U) [!].gb",
+                  "crc32": "8875C8FE",
+                  "md5": "7C65E9DA405D2225D079F75E56276822",
+                  "sha1": "696B9AD1E9CFB7112977C9A7C05CF64FE8423D8A",
+                  "sha256": "17570CEEC1B22153604622C4412D048DD8F7CCB4626DAF9DDEA96DE8A062DBF2"
+                }
+              ]
+            },
+            {
+              "versao": "1.2",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-02-03"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "GANO"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
                   "nome_arquivo_aplicar": "Castlevania II - Belmont's Revenge (U) [!].gb",
                   "crc32": "8875C8FE",
                   "md5": "7C65E9DA405D2225D079F75E56276822",
@@ -2224,7 +2313,7 @@
             {
               "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/castlevania-ii-belmont-s-revenge.html",
               "oficial": false,
-              "possui_link_download": "versao_antiga"
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -2257,7 +2346,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon - Edicion Amarilla - Edicion Especial Pikachu (Spain) (CGB+SGB Enhanced).gb",
                   "crc32": "964B7A10",
                   "md5": "F0DA8B1CFF3AAB898ECDE9DCBDA6D817",
@@ -2312,7 +2400,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Mega Man II (U) [!].gb",
                   "crc32": "E496F686",
                   "md5": "7FE07271D04ED9E0BC0663DDE55A2AE4",
@@ -2371,7 +2458,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Snoopy - Magic Show (U) [!].gb",
                   "crc32": "2B7A5034",
                   "md5": "8A06994B2E265244147A4D6D0E80623F",
@@ -2386,6 +2472,472 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy/snoopys-magic-show-monkeys-traducoes/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/snoopys-magic-show.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Choplifter III",
+            "desenvolvedora": "Teeny Weeny Games",
+            "distribuidora": "Ocean",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1994-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-06-06"
+              },
+              "percentual_traduzido": 90,
+              "grupos": [
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lobim",
+                    "urls": [
+                      "https://memoriasdeumlobodemadeira.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Choplifter III (UE) [!].gb",
+                  "crc32": "1B3B46EF",
+                  "md5": "04A6E77D1FABCBE325882E4BD79D6D4B",
+                  "sha1": "FB1C83EE69FA32C26CDC7031733F17B90CDB0570",
+                  "sha256": "B856963ECABCD23DED711BCDDD548AA9684C08EE2C19E8F00E00D4DFE56A46BB"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/choplifter-iii-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/choplifter-iii.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Double Dragon",
+            "desenvolvedora": "Technos",
+            "distribuidora": "Technos",
+            "genero": "Beat 'em up",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1990-08-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2011-02-27"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "tvtoon"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Double Dragon (U) [!].gb",
+                  "crc32": "40A8BF12",
+                  "md5": "545DE5C311259B7F7EC313A9D58CF4B4",
+                  "sha1": "6565A3D89827717D8E5D2E041C743266BA14B412",
+                  "sha256": "75F902AB8674C3CD379438FBD54CFE7E87CA3DDF9727679547261D1B77DB720B"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/double-dragon-satira-po.b.r.e",
+              "oficial": true,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/double-dragon.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Mega Man IV",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1993-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2003-02-22"
+              },
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Anonymous_rs"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Mega Man IV (E).gb",
+                  "crc32": "973FCF4C",
+                  "md5": "4CEFE39910A0C6DCF9290556FBD29184",
+                  "sha1": "F4F7BAAAEC4BFDE95003AC52FDFE95ECCDAB569C",
+                  "sha256": "344F183E658788536D003C8F85155A5AA71DEC9BEDA7E91687D02246C23BF00A"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/mega-man-iv-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/mega-man-iv.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Mickey Mouse II",
+            "desenvolvedora": "Kotobuki Systems",
+            "distribuidora": "Kotobuki Systems",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1991-04-26"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-01-16"
+              },
+              "grupos": [
+                {
+                  "nome": "Tradumix",
+                  "urls": [
+                    "http://www.tradumix.cjb.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Sergiomhouse"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Mickey Mouse II (J).gb",
+                  "crc32": "DFEE8BCC",
+                  "md5": "9F5DDC6EE110A6843B1D9D9A08514C71",
+                  "sha1": "2D44566D2D74F573D2FAF23988A3070ABB47555D",
+                  "sha256": "1DCE8C46377219979672B54769C8D855D6708DFC263F142F61DDB97CDC78CC93"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/mickey-mouse-ii-tradumix/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/mickey-mouse-ii.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Operation C",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Ultra Games",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1991-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-05-05"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Mr. Magoo"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Operation C (U) [!].gb",
+                  "crc32": "2EBBC1AE",
+                  "md5": "C6EFFB3A51B36056411760D1FFE048F7",
+                  "sha1": "1DC3E1C62E62F77AC633408B544AC1D02B3761EB",
+                  "sha256": "0B6670E44CC2EDC6FBF32FC78F499E774CF0802019480F2BF7BDB836EE15C433"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/operation-c-mr.magoo/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/operation-c.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pac-Man",
+            "desenvolvedora": "NAMCO",
+            "distribuidora": "NAMCO",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1991-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-01-16"
+              },
+              "grupos": [
+                {
+                  "nome": "Tradumix",
+                  "urls": [
+                    "http://www.tradumix.cjb.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Sergiomhouse"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pac-Man (U) (Namco).gb",
+                  "crc32": "0509069C",
+                  "md5": "CD9027E147F4605F26EE261C537441B3",
+                  "sha1": "8D9FDA32419CA7030BA15F67FF8F857C1A119916",
+                  "sha256": "4A43F491E4C5CEF282960B06D23133FF3CB234E228FD21FE1E99958EEE8C4971"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/pac-man-tradumix/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/pac-man.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Killer Instinct",
+            "desenvolvedora": "Rare",
+            "distribuidora": "Nintendo",
+            "genero": "Luta",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1995-11-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2013-07-21"
+              },
+              "percentual_traduzido": 70,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Nolan"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Killer Instinct (U) [S][!].gb",
+                  "crc32": "AC793B54",
+                  "md5": "BA8628A70339843C2EE8A294B840E8D6",
+                  "sha1": "65AE38588ABC0E699B244B0854F698DDF72C7B46",
+                  "sha256": "4A091956A579DE541AA2EEF831E6D0C07D8324255CFF7CC889C8ED9B70847769"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy/killer-instinct-nolan/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/killer-instinct.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon - Yellow Version",
+            "desenvolvedora": "Game Freak",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1999-10-19"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.3",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "1999-10-31"
+              },
+              "grupos": [
+                {
+                  "nome": "CBT",
+                  "urls": [
+                    "http://www.emucamp.com/CBT/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Samurai_Pizza"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pokemon - Yellow Version (UE) [C][!].gbc",
+                  "crc32": "7D527D62",
+                  "md5": "D9290DB87B1F0A23B89F99EE4469E34B",
+                  "sha1": "CC7D03262EBFAF2F06772C1A480C7D9D5F4A38E1",
+                  "sha256": "8CBAA499397E4F1A679C992EA9382A2DD7942AB398B48C19829C2D9529DE47BF"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/pokemon-yellow-version-cbt/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/portuguese/pokemon-yellow.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         }
@@ -2439,7 +2991,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "102 Dalmatians - Puppies to the Rescue (U) [C][!].gbc",
                   "crc32": "56B83539",
                   "md5": "2B7E2442D503CE368FC93A9EBF0F70EF",
@@ -2508,7 +3059,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Alone in the Dark - The New Nightmare (E) (M6) [C][!].gbc",
                   "crc32": "7FF2042F",
                   "md5": "30EC849758F703D7071E2AC28E048101",
@@ -2582,7 +3132,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Mega Man Xtreme (U) [C][!].gbc",
                   "crc32": "3A4D94D5",
                   "md5": "4681F5B931A2E60CA163FACD1ADF56ED",
@@ -2635,6 +3184,16 @@
                 "data": "2002-10-19"
               },
               "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Tradu-Roms",
+                  "urls": [
+                    "https://traduroms.github.io/",
+                    "http://traduroms.cjb.net/",
+                    "http://www.traduroms.tsx.org"
+                  ]
+                }
+              ],
               "autores": [
                 {
                   "autor": {
@@ -2657,7 +3216,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Mega Man Xtreme 2 (U) [C][!].gbc",
                   "crc32": "8FEDB6D8",
                   "md5": "1F64989765F605D05CBD013E7FFCC352",
@@ -2737,7 +3295,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon - Crystal Version (UE) (V1.1) [C][!].gbc",
                   "crc32": "3358E30A",
                   "md5": "301899B8087289A6436B0A241FBBB474",
@@ -2812,7 +3369,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pocket Monsters Kin (J) (V1.0) [C][!].gbc",
                   "crc32": "524478D4",
                   "md5": "85BE569FE89F58C40F60480313314C67",
@@ -2820,7 +3376,6 @@
                   "sha256": "7CFECEAE00737A1F0713C9AB0B3A9E6EB8D05FF6002EB81308072A6F85E385E7"
                 },
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pocket Monsters Kin (J) (V1.1) [C][!].gbc",
                   "crc32": "4EF7F2A5",
                   "md5": "79AECE8A042E4FA57ABA9455C4D21A97",
@@ -2894,7 +3449,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon - Gold Version (UE) [C][!].gbc",
                   "crc32": "6BDE3C3E",
                   "md5": "A6924CE1F9AD2228E1C6580779B23878",
@@ -2974,7 +3528,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon - Silver Version (UE) [C][!].gbc",
                   "crc32": "8AD48636",
                   "md5": "2AC166169354E84D0E2D7CF4CB40B312",
@@ -3046,7 +3599,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Spider-Man 2 - The Sinister Six (U) [C][!].gbc",
                   "crc32": "A7FAACCF",
                   "md5": "85BBAD46380DFFA631F8CE732E9C5D89",
@@ -3124,7 +3676,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Legend of Zelda, The - Oracle of Seasons (E) (M5) [C][!].gbc",
                   "crc32": "DBAC1357",
                   "md5": "4CA44CBDD4E05C9B3C22DA96D3DE6338",
@@ -3190,7 +3741,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Buffy the Vampire Slayer (U) [C][!].gbc",
                   "crc32": "5692E262",
                   "md5": "49561C4082206A7E5D5CA2032BE81EED",
@@ -3274,7 +3824,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Crystalis (U) [C][!].gbc",
                   "crc32": "909BB02D",
                   "md5": "F36A0ED25A601C039B1171D9DAF241D6",
@@ -3356,7 +3905,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Harvest Moon GB (U) [C][!].gbc",
                   "crc32": "AB5738A1",
                   "md5": "498C0A50A5E5CDE16127617A97AD6162",
@@ -3364,7 +3912,6 @@
                   "sha256": "54FE95AF5DED33631DB84B6BA4ECC4A86F9F7528C9C56CA678150A3246D49623"
                 },
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Harvest Moon GB (E) [C][!].gbc",
                   "crc32": "C8A6F68A",
                   "md5": "A5BC2E2AD58BBD78609478A60DCDA8D7",
@@ -3429,7 +3976,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "International Superstar Soccer '99 (U) [C][!].gbc",
                   "crc32": "9D0290A7",
                   "md5": "36DF5EBE75980AC4409DEAD125247BCE",
@@ -3488,7 +4034,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Joe & Mac (U) [!].gb",
                   "crc32": "5DA86ED4",
                   "md5": "A4627FB86C2B91FC0ACE4F628AA607E4",
@@ -3543,7 +4088,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pocket Bomberman (U) [C][!].gbc",
                   "crc32": "FA2A66E9",
                   "md5": "2F6B6379F8C7CE5D66A198162F345EAA",
@@ -3561,6 +4105,67 @@
             },
             {
               "url": "https://www.zophar.net/translations/gameboy/portuguese/pocket-bomberman.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pocket Bomberman",
+            "desenvolvedora": "Hudson",
+            "distribuidora": "Nintendo",
+            "genero": "Estrat\u00e9gia",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1998-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2001-06-02"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Tradu-Roms",
+                  "urls": [
+                    "https://traduroms.github.io/",
+                    "http://traduroms.cjb.net/",
+                    "http://www.traduroms.tsx.org"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Shadow-Kn"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pocket Bomberman (U) [C][!].gbc",
+                  "crc32": "FA2A66E9",
+                  "md5": "2F6B6379F8C7CE5D66A198162F345EAA",
+                  "sha1": "B0AE803600E06CD1CC9A0D801F2511C9ECC50584",
+                  "sha256": "952660D14941A2AB77810C3FE36658C8E8DD490E2C4E744FB3D41CE2EB31E703"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/pocket-bomberman-tradu-roms/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/pocket-bomberman.html",
               "oficial": false,
               "possui_link_download": "sim"
             }
@@ -3614,7 +4219,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pokemon Pinball (U) [C][!].gbc",
                   "crc32": "03CE8D9A",
                   "md5": "FBE20570C2E52C937A9395024069BA3C",
@@ -3681,7 +4285,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS e IPS-EXE",
                   "nome_arquivo_aplicar": "Pokemon Trading Card Game (U) [C][!].gbc",
                   "crc32": "81069D53",
                   "md5": "219B2CC64E5A052003015D4BD4C622CD",
@@ -3741,7 +4344,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Revelations - The Demon Slayer (U) [C][!].gbc",
                   "crc32": "D1A65D74",
                   "md5": "86ED74283FE0071F8D3F05923051EFAB",
@@ -3798,7 +4400,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Soul Falchion (Unl) [C].gbc",
                   "crc32": "7AFAE089",
                   "md5": "A173EB46EF11840B9318A8832828280B",
@@ -3853,7 +4454,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Resident Evil GBC Cart 1.gb",
                   "crc32": "53F7BBA1",
                   "md5": "FD91D5D69C43F2F0406B3626D625B6E6",
@@ -3878,6 +4478,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-color/resident-evil-gbc-cart-1-ajkmetiuk/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/resident-evil-prototype-.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -3910,7 +4515,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Looney Tunes (U) [C][!].gbc",
                   "crc32": "4EF3DDD7",
                   "md5": "F687B51A0FAB72E03766356B62261A49",
@@ -3958,7 +4562,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Driver - You Are The Wheelman (U) (M5) [C][!].gbc",
                   "crc32": "D4C7F6DF",
                   "md5": "413E1ACD7847D628364163EB2C97CECD",
@@ -4016,7 +4619,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Survival Kids (U) [C][!].gbc",
                   "crc32": "C46ABA56",
                   "md5": "07D4DF7A1C93F5BEF617E5A90B9EDEE2",
@@ -4075,7 +4677,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Yu-Gi-Oh! Dark Duel Stories (U) [C][!].gbc",
                   "crc32": "803A56AE",
                   "md5": "C30ADD585D87114288FF8E3726C5381B",
@@ -4095,6 +4696,443 @@
               "url": "https://joao13traducoes.com/2019/06/gbc-yu-gi-oh-dark-duel-stories-gutembergh-alencar-e-redarts/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "AirForce Delta",
+            "desenvolvedora": "Climax",
+            "distribuidora": "Konami",
+            "genero": "Shoot 'em up",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "2000-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.21",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-02-04"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Balboa"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "AirForce Delta (U) [C][!].gbc",
+                  "crc32": "FF31CC92",
+                  "md5": "EE37C79E8DF6475D90E99E527823F92F",
+                  "sha1": "82530325B940E14EDEA459879289B4DCE1818066",
+                  "sha256": "EFEE40857F6310F5437732198D998779711F86D80673E72CFC93A3378CA26303"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/airforce-delta-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/airforce-delta.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Batman Beyond - Return of the Joker",
+            "desenvolvedora": "Kemco",
+            "distribuidora": "Ubisoft",
+            "genero": "Beat 'em up",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-11-20"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-01-05"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "StackHouse"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Batman Beyond - Return of the Joker (U) [C][!].gbc",
+                  "crc32": "B32F4586",
+                  "md5": "DD9E7C40F202F2C3963930E195D75F4D",
+                  "sha1": "8C69EB7EC5BC809EDC8CAA255576F919EA722DAD",
+                  "sha256": "BFB324176949811C6E116CB8E3D434B4937634D95B4F9BDFB54E0157C612DEA0"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/batman-beyond-return-of-the-joker-po.b.r.e",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/batman-beyond-return-of-the-joker.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Bomberman Max - Blue Champion",
+            "desenvolvedora": "Hudson",
+            "distribuidora": "Vatical Entertainment",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-05-14"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2008-08-30"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "RodrigoX4"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Bomberman Max - Blue Champion (U) [C][!].gbc",
+                  "crc32": "5CCB66CF",
+                  "md5": "C987F711DFB9CBA8DC1174219877360F",
+                  "sha1": "BB1120B0116EDA3FC157C66766BEFFCC7A04F826",
+                  "sha256": "27D2EB237362B5647B020D0B22A08B079B40E50347DACC43B732830B9519A852"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/bomberman-max-blue-champion-rodrigox4/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/bomberman-max-blue-champion.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Bubble Bobble",
+            "desenvolvedora": "Taito",
+            "distribuidora": "Metro3D",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1999-11-01"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "1999-10-20"
+              },
+              "grupos": [
+                {
+                  "nome": "Emuroms Translations"
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Mac_RJ"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Bubble Bobble (U) [C][!].gbc",
+                  "crc32": "C1B22246",
+                  "md5": "4BC8467ED91A94BA23648706B551CEF5",
+                  "sha1": "6E3739C0538467C220750F2E8D474433692BAC09",
+                  "sha256": "E1303F81AAF867A7920DF813B8039BBB4F71C44C0D0DB685466B505C03F1CA5D"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/bubble-bobble-emuroms-translations/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/bubble-bobble.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Harvest Moon GBC 2",
+            "desenvolvedora": "Natsume",
+            "distribuidora": "Natsume",
+            "genero": "Simula\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-09-11"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2002-01-08"
+              },
+              "percentual_traduzido": 95,
+              "grupos": [
+                {
+                  "nome": "Romhack BR",
+                  "urls": [
+                    "http://www.romhackbr.rg3.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Sanozuke"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Majin Alucard"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "King Delita"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Harvest Moon 2 GBC (U) [C][!].gbc",
+                  "crc32": "08906220",
+                  "md5": "A539A7A02639395AD8D7723199C81EAE",
+                  "sha1": "DA745AA63684F53FB3EE6C19463ED4C132441CCB",
+                  "sha256": "44A86E671CFBD0C6C33CC52EE7E8B21072B6F113AC84AEB89CED28E8D4D3563D"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/harvest-moon-gbc-2-romhack-br/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/harvest-moon-gbc-2.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "The Legend of Zelda - Oracle of Ages",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Nintendo",
+            "genero": "RPG / A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2001-10-05"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "Final",
+              "ultima_versao": true,
+              "observacao": "No Menu de Escolha de Idiomas, escolha o idioma \"Espa\u00f1ol\", para jogar em portugu\u00eas.",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2011-07-18"
+              },
+              "percentual_traduzido": 90,
+              "grupos": [
+                {
+                  "nome": "Disco Voador Romhacking",
+                  "urls": [
+                    "https://disco-voador-romhack.blogspot.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Luccasdavid"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Legend of Zelda, The - Oracle of Ages (E) (M5) [C][!].gbc",
+                  "crc32": "5933E3FA",
+                  "md5": "825DE040EA4DFF66661693F8712B1BDB",
+                  "sha1": "9F2DFF3C46406839F839A8D535353DFC1E3E8670",
+                  "sha256": "DBBB897A003654ABFEF7EADBFD401421E247E0C37319E947E5C80099F8F7AB86"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://disco-voador-romhack.blogspot.com/2011/07/traducao-do-oracle-of-ages-finalmente.html",
+              "oficial": true,
+              "possui_link_download": "links_download_inativo"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/the-legend-of-zelda-oracle-of-ages-disco-voador-romhacking/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/the-legend-of-zelda-oracle-of-ages.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Perfect Dark",
+            "desenvolvedora": "Rare",
+            "distribuidora": "Nintendo",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-08-28"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2003-06-13"
+              },
+              "percentual_traduzido": 98,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Gambas"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Ifrit Ryudo"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Japa Boy Junior"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Perfect Dark (U) (M5) [C][!].gbc",
+                  "crc32": "0601BEF6",
+                  "md5": "840E1DDB2696ECAE487FD264A3C34581",
+                  "sha1": "2D1E47BF3FB4A28FFB82A4FD2AE779EC99AAA87D",
+                  "sha256": "F07AC278AE1DAB9CE5478192701949F07DE866101CD1C73BB0CF6EAA9E648CA3"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/perfect-dark-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/perfect-dark.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         }
@@ -4143,7 +5181,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Crash Bandicoot XS (E) (M6) [!].gba",
                   "crc32": "CCFD654F",
                   "md5": "B282E479E10AEA057E762DE7B9D4CA4B",
@@ -4168,6 +5205,11 @@
               "url": "https://joao13traducoes.com/2022/03/gba-crash-bandicoot-xs-tradu-roms/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-xs.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -4217,7 +5259,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Dragon Ball Z - The Legacy of Goku (U) [hI].gba",
                   "crc32": "3DE06A92",
                   "md5": "2AE646903C660FBC16E6FB7F52F5860F",
@@ -4225,7 +5266,6 @@
                   "sha256": "C41D95D10981A23E80A105F173DF38415E294065BCC4D1B22EF80977D6BB6BED"
                 },
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Dragon Ball Z - The Legacy of Goku (U) [!].gba",
                   "crc32": "D47CCFF4",
                   "md5": "3100FC5A4427A7B0CC20B861134E60F2",
@@ -4288,7 +5328,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero (U).gba",
                   "crc32": "9707D2A1",
                   "md5": "B24A17D080A01A404CBF018BA42B9803",
@@ -4335,7 +5374,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -4349,7 +5389,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero (U).gba",
                   "crc32": "9707D2A1",
                   "md5": "B24A17D080A01A404CBF018BA42B9803",
@@ -4409,7 +5448,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 },
                 {
@@ -4483,7 +5523,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Metroid Fusion (U) [!].gba",
                   "crc32": "6C75479C",
                   "md5": "AF5040FC0F579800151EE2A683E2E5B5",
@@ -4555,7 +5594,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Spider-Man - Mysterio\u2019s Menace (U) [!].gba",
                   "crc32": "6E135B4D",
                   "md5": "FBDA16CBC7E3F81AA5B90DA955D3E114",
@@ -4622,7 +5660,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Powerpuff Girls, The - Mojo Jojo A-Go-Go! (U) (M6).gba",
                   "crc32": "DFB57DCF",
                   "md5": "28A2B3E44952944E29A168E5F17B5696",
@@ -4694,7 +5731,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Bomberman Tournament (U) [!].gba",
                   "crc32": "240282E6",
                   "md5": "79AEF9BBE1378ADFBD688CD66E11A7BE",
@@ -4761,7 +5797,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Rainbow Six - Rogue Spear (U) (M5).gba",
                   "crc32": "23575BF2",
                   "md5": "509E3A1FE6284A75C84315A64BD33F43",
@@ -4808,7 +5843,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -4822,7 +5858,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero 2 (U).gba",
                   "crc32": "CE1E37BB",
                   "md5": "182363B0698322E1864CED6E9EED7EAD",
@@ -4874,7 +5909,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -4894,7 +5930,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero 3 (U).gba",
                   "crc32": "2784F3F2",
                   "md5": "AA1D5EEFFCD5E4577DB9EE6D9B1100F9",
@@ -4902,7 +5937,6 @@
                   "sha256": "067F420FBD4AABC1CCC11ADCE410EE10C89AAE5B9A7473E29B9B45A4EF2B8B0D"
                 },
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero 3 (E).gba",
                   "crc32": "B099577F",
                   "md5": "9CE73FF9AA1473F250D103C1BDBBD738",
@@ -4954,7 +5988,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -4968,7 +6003,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Megaman Zero 4 (U).gba",
                   "crc32": "7EE24793",
                   "md5": "0D1E88BDB09FF68ADF9877A121325F9C",
@@ -5020,7 +6054,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -5052,7 +6087,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Shonen Jump\u2019s - Shaman King - Master of Spirits (U).gba",
                   "crc32": "10E554AE",
                   "md5": "1C92EDBAD07A372EE382D16CF624DC4B",
@@ -5104,7 +6138,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -5124,7 +6159,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Shonen Jump\u2019s - Shaman King - Master of Spirits 2 (U).gba",
                   "crc32": "201E3412",
                   "md5": "5AF6A63F85FA386C7889695308DC32A4",
@@ -5176,7 +6210,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -5202,7 +6237,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Metroid - Zero Mission (U) [!].gba",
                   "crc32": "5C61A844",
                   "md5": "EBBCE58109988B6DA61EBB06C7A432D5",
@@ -5254,7 +6288,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -5286,7 +6321,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Castlevania - Harmony of Dissonance (E) [!].gba",
                   "crc32": "521B3091",
                   "md5": "E619F9DCD7EF3D4C6851834018B139BD",
@@ -5385,7 +6419,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Yu Yu Hakusho - Tournament Tactics (U).gba",
                   "crc32": "AEF6B7CC",
                   "md5": "ACEFEBBE5FDF25AE83A386A6D1C09BCA",
@@ -5458,7 +6491,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Advance Wars (U) (V1.0).gba",
                   "crc32": "DBEF116C",
                   "md5": "27F322F5CD535297AB21BC4A41CBFC12",
@@ -5505,7 +6537,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 },
                 {
@@ -5543,7 +6576,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Castlevania - Circle of the Moon (U).gba",
                   "crc32": "1CC059A4",
                   "md5": "50A1089600603A94E15ECF287F8D5A1F",
@@ -5596,7 +6628,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 }
               ],
@@ -5628,7 +6661,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Castlevania - Aria of Sorrow (E) (M3) [hIR00].gba",
                   "crc32": "D0C91F74",
                   "md5": "4A5D8E686D55829D54A03FDA8D6887D7",
@@ -5694,7 +6726,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Drill Dozer (U).gba",
                   "crc32": "E60EC183",
                   "md5": "14DAB12E795098988D46B96885170538",
@@ -5746,7 +6777,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 },
                 {
@@ -5756,10 +6788,7 @@
                   ]
                 },
                 {
-                  "nome": "Heroes of Time",
-                  "urls": [
-                    "https://www.e4t.com.br/"
-                  ]
+                  "nome": "Heroes of Time"
                 },
                 {
                   "nome": "Projeto BR"
@@ -5835,7 +6864,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Legend of Zelda, The - The Minish Cap (U).gba",
                   "crc32": "ABCEBBB1",
                   "md5": "A104896DA0047ABE8BEE2A6E3F4C7290",
@@ -5859,7 +6887,7 @@
             {
               "url": "https://www.e4t.com.br/downloads/a-lenda-de-zelda-o-gorro-minimizador/",
               "oficial": true,
-              "possui_link_download": "pagina_inativa"
+              "possui_link_download": "sim"
             },
             {
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda-the-minish-cap-trans-center-po.b.r.e.-e-projeto-br/",
@@ -5897,7 +6925,8 @@
                 {
                   "nome": "Trans-Center",
                   "urls": [
-                    "https://emulandogba.sites.uol.com.br/index2.html"
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
                   ]
                 },
                 {
@@ -5907,10 +6936,7 @@
                   ]
                 },
                 {
-                  "nome": "Heroes of Time",
-                  "urls": [
-                    "https://www.e4t.com.br/"
-                  ]
+                  "nome": "Heroes of Time"
                 },
                 {
                   "nome": "Hyrule Legends"
@@ -5992,7 +7018,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Legend of Zelda, The - A Link to the Past & Four Swords (U).gba",
                   "crc32": "8E91CD13",
                   "md5": "3287CA66E5CC285A9FE3A922051E84C6",
@@ -6007,6 +7032,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=2287",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://www.e4t.com.br/downloads/a-lenda-de-zelda-quatro-espadas-um-elo-com-o-passado/",
+              "oficial": true,
+              "possui_link_download": "sim"
             },
             {
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/",
@@ -6064,7 +7094,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Kirby & the Amazing Mirror (E) (M5).gba",
                   "crc32": "4F07C618",
                   "md5": "1C759EDF84A20174989588664BBBEC55",
@@ -6128,7 +7157,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Yu-Gi-Oh! - Reshef of Destruction (E) (M5).gba",
                   "crc32": "460E073F",
                   "md5": "4F71A4E021F4B9319C9D4443DD710666",
@@ -6194,7 +7222,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "One Piece (U).gba",
                   "crc32": "7D2CF2A1",
                   "md5": "CE153A5CE176B608EDD035E3B9A27DAD",
@@ -6250,7 +7277,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "SimCity 2000 (U).gba",
                   "crc32": "733751B3",
                   "md5": "139B7E51D2F49DFFEEDE13E464BAFEEA",
@@ -6320,7 +7346,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Spider-Man 3 (U).gba",
                   "crc32": "AD0228A1",
                   "md5": "7D2C4F995B82825AA63FE224733D769B",
@@ -6373,7 +7398,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Banjo-Kazooie - Grunty's Revenge (U) [!].gba",
                   "crc32": "DFB5ABA3",
                   "md5": "4781A8E513DE51AB90292C321AC34374",
@@ -6435,7 +7459,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Dinotopia - The Timestone Pirates (UE) (M6).gba",
                   "crc32": "7BD01B31",
                   "md5": "BAB43E61606514080129A179E931B2B6",
@@ -6494,7 +7517,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Harvest Moon - Friends of Mineral Town (U) [!].gba",
                   "crc32": "8E923168",
                   "md5": "80355C831A7A25B0F70DC021EBD344F1",
@@ -6559,7 +7581,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Finding Nemo (Europe) (Es,It).gba",
                   "crc32": "3E6F4F03",
                   "md5": "B7A094F8568555602158DCEE3750179F",
@@ -6612,7 +7633,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pac-Man World (E) (M5).gba",
                   "crc32": "1F92814E",
                   "md5": "83511ED734D5BF842B9062EBC574A434",
@@ -6677,7 +7697,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Ultimate Spider-Man (U).gba",
                   "crc32": "931E2C18",
                   "md5": "11BEB7FD8CE6C8A3D4987274835E0843",
@@ -6746,7 +7765,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Lion King, The (E) (M8).gba",
                   "crc32": "63592451",
                   "md5": "3F1CB5398649FF0C43673E73CAD3010E",
@@ -6846,7 +7864,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Sims, The - Bustin' Out (UE) (M6).gba",
                   "crc32": "ABAF519C",
                   "md5": "E429CE307FE06DBCD7724552FF0339D7",
@@ -6861,6 +7878,11 @@
               "url": "https://www.romhacking.net.br/index.php?topic=1782",
               "oficial": true,
               "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://www.e4t.com.br/downloads/os-sims-dando-o-fora/",
+              "oficial": true,
+              "possui_link_download": "sim"
             },
             {
               "url": "https://joao13traducoes.com/2021/03/gba-sims-bustin-out-kosmus-e-cia/",
@@ -6899,7 +7921,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS e Xdelta",
                   "nome_arquivo_aplicar": "Mario & Luigi - Superstar Saga (E) (M5).gba",
                   "crc32": "170CC574",
                   "md5": "3B50B9F9E13E271EAD33EE5A234650A9",
@@ -6956,7 +7977,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS e Xdelta",
                   "nome_arquivo_aplicar": "Dead to Rights (E) (M5)",
                   "crc32": "2994DE1D",
                   "md5": "01356207595154E92EFA8B97B6E48ACD",
@@ -7032,7 +8052,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Batman Begins (UE) (M6).gba",
                   "crc32": "83C90106",
                   "md5": "8C48059BF2C40A78B9739EDF5EA411CB",
@@ -7092,7 +8111,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "SpongeBob SquarePants - SuperSponge (U).gba",
                   "crc32": "98AD67E6",
                   "md5": "C2BFA5C822F33EAED02AD2F94A0414B4",
@@ -7145,7 +8163,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "FIFA Football 2005 (UE) (M6)",
                   "crc32": "DA90F396",
                   "md5": "4C5C302D02ECFCD274DAE63461A1692B",
@@ -7203,7 +8220,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "FIFA World Cup Germany 2006 (UE) (M5).gba",
                   "crc32": "50AB4544",
                   "md5": "BB87013EC30BEBF3DD7CB07AB6786262",
@@ -7261,7 +8277,6 @@
               ],
               "aplicar_patchs_em": [
                 {
-                  "tipo_patch": "IPS",
                   "nome_arquivo_aplicar": "Pac-Man World 2 (E) (M5).gba",
                   "crc32": "A45EB4D2",
                   "md5": "3755C0A785A829114C543393ECF0CB4E",
@@ -7281,6 +8296,3031 @@
               "url": "https://www.romhacking.net/translations/6092/",
               "oficial": false,
               "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Crazy Chase",
+            "desenvolvedora": "Kemco",
+            "distribuidora": "Kemco",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2002-10-23"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2012-10-06"
+              },
+              "percentual_traduzido": 98,
+              "grupos": [
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Tiozinho da Telesena",
+                    "urls": [
+                      "http://tiozinho.cjb.net",
+                      "https://tiozinhopobre.wixsite.com/repositorio"
+                    ]
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Crazy Chase (U).gba",
+                  "crc32": "CABA1DB9",
+                  "md5": "44A36F758C4328AA0FFC91EC118CF28D",
+                  "sha1": "C84759EBA2683A44F49F3CF52AD7C82D6A85CA74",
+                  "sha256": "663C9549C4DE6C167E4BD62726D5A2B17E32CB96BA51F70D368143501F3AE2E4"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/crazy-chase-po.b.r.e",
+              "oficial": true,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://tiozinhopobre.wixsite.com/repositorio",
+              "oficial": true,
+              "possui_link_download": "sim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Nintendo DS",
+      "sigla": "NDS",
+      "traducoes": [
+        {
+          "jogo": {
+            "nome": "Castlevania - Portrait of Ruin",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Konami",
+            "genero": "Metroidvania",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2006-11-16"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-01-21"
+              },
+              "percentual_traduzido": 95,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                },
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Knirt"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hyllian"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Joapeer"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Fallen_Soul"
+                  },
+                  "funcao": "Romhacking"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Castlevania - Portrait of Ruin (E) (M5).nds",
+                  "crc32": "772BA12A",
+                  "md5": "17A6618C3C7F5547D7C38FC04CB2666E",
+                  "sha1": "26FE05FA12019FACEA91556E4E6B00BA6989E15D",
+                  "sha256": "7E92D86C8D9B7EAA1CF23BBCC11D52F1307FB9CEA9F014B48CFE0FC9ABB26F9C"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/castlevania-portrait-of-ruin-monkeys-traducoes-e-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5316/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Castlevania - Order of Ecclesia",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Konami",
+            "genero": "Metroidvania",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-10-21"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-07-29"
+              },
+              "percentual_traduzido": 95,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                },
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lanford"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hyllian"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "NEODAN"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Aloprado"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Castlevania - Order of Ecclesia (U).nds",
+                  "crc32": "82A582A5",
+                  "md5": "EB14BE088C78CD33520473978F2C9D16",
+                  "sha1": "1DE18711623861583082B786503BCE427F435822",
+                  "sha256": "4C24C3ECA79F509C08DAF31EAF48CBB6A5FE04E1367338C4BD7E4838A08CF851"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/castlevania-order-of-ecclesia-pobre-e-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5317/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-castlevania-order-of-ecclesia-pobre-e-trans-center",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "The Legend of Zelda - Phantom Hourglass",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "RPG / A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-06-23"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "0.9",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2011-02-06"
+              },
+              "percentual_traduzido": 95,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                },
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                },
+                {
+                  "nome": "Projeto BR"
+                },
+                {
+                  "nome": "Hyrule Legends"
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Aloprado"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Dank"
+                  },
+                  "funcao": "Romhacking e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kayo Furtado"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Luis Gustavo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "William Otaku"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Aero"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Chapolink"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Luki4n"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Shikamaru"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "The_Owl"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "X_Bacon"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Marvin Dalkiri"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Sonic Away"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Zelda Phantom Hourglass (U)(iND).nds",
+                  "crc32": "8B431C41",
+                  "md5": "745E372BDE611C2CEB3EC5DB2BBEB77A",
+                  "sha1": "4C8F52DD719918BBCD46E73A8BAE8628139C1B85",
+                  "sha256": "2DD43288C1B7B428CBD09D9A74464B9A46FE0239EAED82849369F261678011F7"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/the-legend-of-zelda-phantom-hourglass-projeto-br-trans-center-hyrule-legends-e-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5265/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-the-legend-of-zelda-phantom-hourglass-projeto-br-trans-center-hyrule-legends-e-monkeys-traducoes",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Henry Hatsworth in The Puzzling Adventure",
+            "desenvolvedora": "Electronic Arts (EA)",
+            "distribuidora": "Electronic Arts (EA)",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2009-03-17"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2013-08-04"
+              },
+              "percentual_traduzido": 99,
+              "grupos": [
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lobim",
+                    "urls": [
+                      "https://memoriasdeumlobodemadeira.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Marvin Dalkiri"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Ray"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "ZEMO"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Henry Hatsworth in the Puzzling Adventure (EU).nds",
+                  "crc32": "99112063",
+                  "md5": "93D404688E546A9B78DCA6F21B703A45",
+                  "sha1": "854AB5ADA84C22F524495EF30938A4217B704F89",
+                  "sha256": "DBB2E499CBC911C4BF573DF7CBA4CC2D540932E92B817D913AA31DEE3F208425"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/henry-hatsworth-in-the-puzzling-adventure-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/3360/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-henry-hatsworth-in-puzzling-adventure-monkeys-traducoes",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Mega Man ZX Advent",
+            "desenvolvedora": "INTI CREATES",
+            "distribuidora": "Capcom",
+            "genero": "Metroidvania",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-07-12"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2017-12-20"
+              },
+              "percentual_traduzido": 90,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                },
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Maverick Blue Warrior"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Denim"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Geo"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "MegaMan ZX Advent (U).nds",
+                  "crc32": "6CA425E5",
+                  "md5": "596462F2976C1582FF45E88AAF3FA01B",
+                  "sha1": "9CF3B54A11EB8D7628CF817EA9C2D25D67A65406",
+                  "sha256": "D61FEDA482015C719F4CE1BFA9CC82C2232E2C268A813D725618B9BD52203186"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=224",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/mega-man-zx-advent-trans-center-e-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5233/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-mega-man-zx-advent-trans-center-e-monkeys-traducoes",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Rock Man ZX",
+            "desenvolvedora": "INTI CREATES",
+            "distribuidora": "Capcom",
+            "genero": "Metroidvania",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2006-07-06"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.2",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=Qs5dn5fuKVc",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2017-12-23"
+              },
+              "percentual_traduzido": 95,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Odin"
+                  },
+                  "funcao": "Romhacking e Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Geo"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Rockman ZX (J)(WRG).nds",
+                  "crc32": "B577BBE0",
+                  "md5": "F6C576C29A5B03DBCBAAC0B4B97EBE30",
+                  "sha1": "B4EEE084BC16BF67C5EB43733549C26A747D94A9",
+                  "sha256": "1FC89ED136AF22D7F28318AFA06A8EB72CE40A917727A17BFD827C91261C04E8"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=8",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/rock-man-zx-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5181/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-rock-man-zx-trans-center",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Phoenix Wright - Ace Attorney",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Visual novel",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2005-09-15"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.1",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=d5tC-fa8H7Y",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2019-03-10"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "djmatheusito"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Sahgo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Magalicia"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "BMatSantos"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sigaki"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Sorinha Phantasie"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Cronus"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "nickhirano"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Joker"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Bin\u00e1rio"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Rafael Andrade"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Giovany"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kit"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Sliter"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "EmuPlays"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Tanekoshima"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Gabriel Andrade"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Eduardo Yamane"
+                  },
+                  "funcao": "Dublagem"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Phoenix Wright - Ace Attorney (U).nds",
+                  "crc32": "BE5FB8D8",
+                  "md5": "6580F4F45F6378A08914A7784F93E7FE",
+                  "sha1": "0631D0CD418AC4F1CBC387A85303C8AD8B104D58",
+                  "sha256": "D8E532C2DC65650A0EB28ECE2BF9ECAFB638319999DA15A2F28D18D2F458993C"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=427",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/phoenix-wright-ace-attorney-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5320/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/07/nds-phoenix-wright-ace-attorney-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Phoenix Wright - Ace Attorney - Justice for All",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Visual novel",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2006-10-26"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.111",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=veI6NiR9TSI",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2020-09-01"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Dant"
+                  },
+                  "funcao": "Romhacking e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "djmatheusito"
+                  },
+                  "funcao": "Romhacking e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sahgo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Rafael Andrade"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Jagohod"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Katodelumo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gustavo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kaid"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Naoya"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "S.O."
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "EmuPlays"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sigaki"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Gabriel Andrade"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Eduardo Yamane"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Juh Tairin"
+                  },
+                  "funcao": "Dublagem"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Phoenix Wright - Ace Attorney - Justice for All (USA).nds",
+                  "crc32": "ED50C3E6",
+                  "md5": "7CE988F799C18FDEE49D09DA942FC341",
+                  "sha1": "51EE2DDE4ADBD112E17780B4E5C8637CE5383418",
+                  "sha256": "ECC16381AA55C6CD129B8E4E2E9B2726C4AFDE26D7E881BD8BD1D6D6BF47DE0C"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5382/",
+              "oficial": false,
+              "possui_link_download": "versao_antiga"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/03/nds-phoenix-wright-ace-attorney-justice-for-all-traduzido-e-dublado-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Picross DS",
+            "desenvolvedora": "Jupiter",
+            "distribuidora": "Nintendo",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-01-21"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2020-06-06"
+              },
+              "percentual_traduzido": 99,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lobim",
+                    "urls": [
+                      "https://memoriasdeumlobodemadeira.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Marvin Dalkiri"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Gambas"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Killer_Skull"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Kmikz"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Lanford"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "ZEMO"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Edilson"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Picross DS (U).nds",
+                  "crc32": "35004805",
+                  "md5": "A980ADB92B4BBDA7784CDF960ADA8826",
+                  "sha1": "236F1349271C0890A9F4F36F1E58FB57EAC05A59",
+                  "sha256": "534460AF58F9F81280F65DD73A5AB5C792DA2FB6B416DCC2495CCE398477BB5D"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net/translations/5579/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1455",
+              "oficial": true,
+              "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/picross-ds-lobim/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/06/nds-picross-ds-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Trauma Center - Under The Knife",
+            "desenvolvedora": "Atlus",
+            "distribuidora": "Atlus",
+            "genero": "Simula\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2005-10-04"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=cuT6HUCpA4o",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2020-11-26"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Magalicia"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Denim"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Sliter"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Huskie"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Cl\u00e1udia Akiko"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Zizibs"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Legends"
+                  },
+                  "funcao": "Dublagem"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Trauma Center - Under the Knife (U).nds",
+                  "crc32": "0622460A",
+                  "md5": "A60071BC7ADC9BAB2D64F454E49E118F",
+                  "sha1": "DB9AE5A10471FD001DCEC2B4D7303B40FC876C57",
+                  "sha256": "6FFE3BD3A5EE7879FCD27217984825F2CC50F400C7F03729CA060B613E665F36"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=422",
+              "oficial": true,
+              "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://www.romhacking.net/translations/5774/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/12/nds-trauma-center-under-the-knife-traduzido-e-dublado-varios-autores/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Ghost Trick - Phantom Detective",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Visual novel",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2010-06-19"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.1",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=YyDYbkrjYvY",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2022-10-30"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "djmatheusito"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "JinjoGuy"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Dant"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "U\u00e3o"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "BMatSantos"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "BMaG"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Luco"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Nathan"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Andra"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Geraldox"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "DGShoe"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Adachi"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Dwlipey"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Mob"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Tchinfsun"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Steve_Doido"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Ana Lee"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Guardinha"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "RetroGamer"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Ghost Trick - Phantom Detective (U) (M5).nds",
+                  "crc32": "5CD93FE5",
+                  "md5": "E61D75F376B0733B5479AE869F744855",
+                  "sha1": "BCFE74E5592EEF3255FD23758B772226960A1B0B",
+                  "sha256": "70893FAD64333CF2CA12A9C332D5E2D3E83BCAE4AAC31D7EB635AC320F240685"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1174",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1174",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/10/nds-ghost-trick-phantom-detective-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon Platinum",
+            "desenvolvedora": "Game Freak",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2009-03-22"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.2.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2021-11-07"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Elite dos Quatro Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "https://www.e4t.com.br/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Maldonny"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Shokai"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pokemon Platinum Version (US) (XenoPhobia).nds",
+                  "crc32": "1D8A5220",
+                  "md5": "F8905424F7D8AEA299C51EC7580B33D8",
+                  "sha1": "C5072BF51A5ECC51ADE99D3506C023F5BAC3EEB3",
+                  "sha256": "67DE86A1BC8E7EB6479DBBBD6E8F5EDFC2FA160576A38E40E06D2180ED63B110"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.e4t.com.br/downloads/pokemon-platina/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1794",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/pokemon-platinum-maldonny-e-sidneyp1/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/11/nds-pokemon-platinum-version-e4t/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon - Black Version",
+            "desenvolvedora": "Game Freak",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2010-09-18"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2023-01-15"
+              },
+              "grupos": [
+                {
+                  "nome": "Elite dos Quatro Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "https://www.e4t.com.br/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Shokai"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gui96"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Darkra"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kamikaze"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "JoeMeira"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hareon"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "FiLLiP"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Jubs"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hentai-san"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pokemon - Black Version (DSi Enhanced) (USA) (E).nds",
+                  "crc32": "E2BEE619",
+                  "md5": "F45FD94BB761721E30BD3A0A4FDE124A",
+                  "sha1": "A68B3BEDF5C1E53556E41E59CDF396C20B331896",
+                  "sha256": "2E40416B8E8183D936084C7BE0ADEAAB4FA3F786A68F90D7291AB77D340F0C1D"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.e4t.com.br/downloads/pb/pokemon-versao-preta/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/03/nds-pokemon-black-version-e4t/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon - White Version",
+            "desenvolvedora": "Game Freak",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2010-09-18"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "licenca": "CC BY-NC-SA 4.0",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2023-01-13"
+              },
+              "grupos": [
+                {
+                  "nome": "Elite dos Quatro Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "https://www.e4t.com.br/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Shokai"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gui96"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Darkra"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kamikaze"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "JoeMeira"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hareon"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "FiLLiP"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Jubs"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hentai-san"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pokemon - White Version (DSi Enhanced) (USA) (E).nds",
+                  "crc32": "EDCD5161",
+                  "md5": "8DFEF9A099E1269AF5C1FCF9D7736A11",
+                  "sha1": "F94D4578956487C09FEE20809A591E858017769E",
+                  "sha256": "93E4F473CE9A0543BCCF2E689ECD07AB4FCC39DD00FB4F194343CBD5E70E17ED"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.e4t.com.br/downloads/pb/pokemon-versao-branca/",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/pokemon-white-version-shokai-e-grande-elenco/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2023/01/nds-pokemon-white-version-e4t/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Phoenix Wright - Ace Attorney - Trials And Tribulations",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Visual novel",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-10-23"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2020-09-01"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Dant"
+                  },
+                  "funcao": "Romhacking e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "djmatheusito"
+                  },
+                  "funcao": "Romhacking e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sahgo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Rafael Andrade"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gustavo Jagohod"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Katodelumo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kaid"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Naoya"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "LiferFiberInfused Joker"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "BlueFairy"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gigi"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Senn"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Zerneas"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Lucas"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Mjay"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "S.O."
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Cronus"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Yuuki"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Mob"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Dwlipey"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Flame Gavin"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "BMatSantos"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "ALX"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "EmuPlays"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sigaki"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Gabriel Andrade"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Eduardo Yamane"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Juh Tairin"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Zizibs"
+                  },
+                  "funcao": "Dublagem"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Phoenix Wright - Ace Attorney - Trials and Tribulations (U).nds",
+                  "crc32": "54505BD8",
+                  "md5": "95A45440731C1055063B77F3CD958099",
+                  "sha1": "EBB295BF6D0CDCBA494A53531C89AC9A1369819A",
+                  "sha256": "488F3321E71D5157085D4487CE2D951527F8297BF1D09F399EF87143CCAAC646"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1025",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2020/02/nds-phoenix-wright-ace-attorney-trials-and-tribulations-traduzido-e-dublado-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Apollo Justice - Ace Attorney",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Visual novel",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-04-12"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.2",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=miHp4-a658I",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2022-09-30"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "djmatheusito"
+                  },
+                  "funcao": "Romhacking, gr\u00e1ficos e testes"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Dant"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Romhacking"
+                },
+                {
+                  "autor": {
+                    "nome": "JinjoGuy"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Sahgo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o, dublagem e testes"
+                },
+                {
+                  "autor": {
+                    "nome": "Nathan"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Dwlipey"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "StarberryMilk"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gustavo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gigi"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Mob"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Silv3r"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Venesios"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Dudu Silva"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Jagohod"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "BMatSantos"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Adachi"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Mysteriozo"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Foxy"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Thecontrool"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Kazuma"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "BMaG"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Pacheco"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Guixz"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Gabriel Andrade"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Artoriuslima"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Pedro Albuquerque"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Eduardo Yamane"
+                  },
+                  "funcao": "Dublagem"
+                },
+                {
+                  "autor": {
+                    "nome": "Pain"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Rn"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "RetroGamer"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Guiguiba"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Apollo Justice - Ace Attorney (U).nds",
+                  "crc32": "AD99478D",
+                  "md5": "5BF349BEE8A1121AF7D02D0D323BBA73",
+                  "sha1": "E76B2CCC4143F53847738C9AEA434D63F2F836DB",
+                  "sha256": "2B90D3EA80700705B373E98C965C65812B4C8876993762F1E678C7E2D8E403A0"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1721",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/03/nds-apollo-justice-ace-attorney-traduzido-e-dublado-jacutem-sabao/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Professor Layton and Pandora's Box",
+            "desenvolvedora": "Level-5",
+            "distribuidora": "Nintendo",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2009-09-25"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "licenca": "CC BY-NC-ND 3.0",
+              "url_youtube": "https://www.youtube.com/watch?v=0dLshyXk4HA",
+              "observacao": "* As fontes usadas na tradu\u00e7\u00e3o das imagens s\u00e3o fi\u00e9is \u00e0s originais.\r\n   * Os enigmas semanais foram desbloqueados atrav\u00e9s de ASM Hacking, n\u00e3o sendo mais necess\u00e1rio \"baix\u00e1-los\".\r\n   * A porta oculta do jogo foi desbloqueada atrav\u00e9s de ASM Hacking, onde qualquer c\u00f3digo inserido ser\u00e1 validado.",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2020-12-28"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                },
+                {
+                  "nome": "Jacutem Sab\u00e3o",
+                  "urls": [
+                    "https://jacutemsabao.bitbucket.io/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "DiegoHH"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Sahgo"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Steve_Doido"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Magall"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Shagohod"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Professor Layton and Pandora's Box (EU)(BAHAMUT).nds",
+                  "crc32": "DF132837",
+                  "md5": "622727D535B4291144137D7DC485F938",
+                  "sha1": "97776408BBADAE8ED926178F67413361DC8F6544",
+                  "sha256": "2FD69B0A3254CC3AD0635F8A6FDF37163E921C0809E7C86E9D71F34A3F426687"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1718",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/01/nds-professor-layton-and-pandora-box-diegohh-e-cia/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Professor Layton and the Curious Village",
+            "desenvolvedora": "Level-5",
+            "distribuidora": "Nintendo",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2008-11-07"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "licenca": "CC BY-NC-ND 3.0",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2013-07-29"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                },
+                {
+                  "nome": "PO.B.R.E",
+                  "urls": [
+                    "https://romhackers.org/"
+                  ]
+                },
+                {
+                  "nome": "Monkey's Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://monkeystraducoes.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Hansen"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "alizor"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Hyllian"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Haru"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "spyblack"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "Solid_One"
+                  },
+                  "funcao": "Gr\u00e1ficos e revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "Gamerulez"
+                  },
+                  "funcao": "Revis\u00e3o"
+                },
+                {
+                  "autor": {
+                    "nome": "gamer_boy"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Professor Layton and the Curious Village (EU)(M5).nds",
+                  "crc32": "B1BB205B",
+                  "md5": "171D7A5004021A66C21964B81639EE53",
+                  "sha1": "0D6265C63A9A30C119FE933CA1ABB91DF66E97F1",
+                  "sha256": "D808728D3E930B7A6C952D05E5E39DB4A15B685C9C0919B57ECE07B5243F493F"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://jacutemsabao.bitbucket.io/download.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/nintendo-ds/professor-layton-and-the-curious-village-monkeys-traducoes/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/02/nds-professor-layton-and-the-curious-village-monkeys-traducoes-trans-center-e-pobre/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Inazuma Eleven 3 - Sekai e no Chousen!! The Ogre",
+            "desenvolvedora": "Level-5",
+            "distribuidora": "Level-5",
+            "genero": "RPG / Esportes",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2010-12-16"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.2",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=HNUNl_3XPcc",
+              "observacao": "No DeSmuME, a fonte fica um pouco bugada, voc\u00ea pode resolver isso indo em Config -> 3D Settings e marcando a caixinha \"Enable TXT Hack\". Tamb\u00e9m \u00e9 importante dizer que algumas partes n\u00e3o traduzidas est\u00e3o em ingl\u00eas.",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2022-12-25"
+              },
+              "percentual_traduzido": 90,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Davyzin"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Kosmus"
+                  },
+                  "funcao": "Gr\u00e1ficos"
+                },
+                {
+                  "autor": {
+                    "nome": "CyberLife"
+                  },
+                  "funcao": "Revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Inazuma Eleven 3 - Sekai heno Chousen The Ogre (J).nds",
+                  "crc32": "A9754AEA",
+                  "md5": "DE2690E8035A695BB65334599AFFEB7C",
+                  "sha1": "9380F1D7EE75E7C6EF24F1B76C88ECDC85088957",
+                  "sha256": "1429C7B99CA8E7A18C49B6C2A9F61D43314B771C2C9A34C1E555BB0566C4CFE0"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=2028",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2022/01/nds-inazuma-eleven-3-sekai-e-no-chousen-the-ogre-cyberlife/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Mario & Luigi - Bowser Inside Story",
+            "desenvolvedora": "AlphaDream Corporation",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2009-02-11"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=hfEhCo5sBR8",
+              "observacao": "O jogo foi traduzido a partir do idioma espanhol. Portanto, para ativar a tradu\u00e7\u00e3o \u00e9 necess\u00e1rio mudar o idioma no emulador ou no DS para Espanhol.",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2021-10-11"
+              },
+              "percentual_traduzido": 80,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "SBraz Gamer"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Mario & Luigi - Bowser's Inside Story (E) (M5).nds",
+                  "crc32": "9C2F90A6",
+                  "md5": "3C2334E0DEA72313D36B51A5418501F9",
+                  "sha1": "5F35BFBF79A0947740795DD770D99E8EEA3AC85E",
+                  "sha256": "4D8A3FFA13AD525DB85E596D576675860A816AA77560CA87C4505451C172C60B"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1971",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/10/nds-mario-luigi-bowser-inside-story-sbraz-gamer/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Mario & Luigi - Partners in Time",
+            "desenvolvedora": "AlphaDream Corporation",
+            "distribuidora": "Nintendo",
+            "genero": "RPG",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2005-11-28"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0.1",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2021-03-22"
+              },
+              "percentual_traduzido": 80,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "SBraz Gamer"
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Mario & Luigi - Partners in Time (Europe) (En,Fr,De,Es,It).nds",
+                  "crc32": "3184FBC4",
+                  "md5": "F9E031C8D3AACEA6306BBAC41BF577F5",
+                  "sha1": "BA4EC2F99B4F2E0047601552BCCF00AA73E28701",
+                  "sha256": "8B16B1F1F0ACA4A78DAE540BE56A219ADBDE6EE3F1CD33D3F0FBA777DE01D6A3"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1797",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/03/nds-mario-luigi-partners-in-time-sbraz-gamer/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Real Crimes - Jack The Ripper",
+            "desenvolvedora": "Sanuk Games",
+            "distribuidora": "Virtual Playground",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "2010-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "url_youtube": "https://www.youtube.com/watch?v=JQhoBukxofM",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2019-05-06"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "hnnewgames",
+                    "urls": [
+                      "https://hnnewgamesofficial.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Tradu\u00e7\u00e3o e revis\u00e3o"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Real Crimes - Jack the Ripper (Europe).nds",
+                  "crc32": "BDE23080",
+                  "md5": "81437916B90B827066A7D8DC2EA0AA1A",
+                  "sha1": "5306F99AB7E0ED0FF225E0D8AC087E7A8EAE3564",
+                  "sha256": "24ABD638A65ED9090B00791FFC40A6FC1F64A0A715425595C2AA8544266588D6"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://hnnewgamesofficial.blogspot.com/2019/05/real-crimes-jack-ripper-portugues-ds.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1144",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/05/nds-real-crimes-jack-ripper-hnnewgames/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Super Mario 64 DS",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2004-11-21"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2021-07-06"
+              },
+              "percentual_traduzido": 90,
+              "grupos": [
+                {
+                  "nome": "Tradu\u00e7\u00f5es PKG",
+                  "urls": [
+                    "https://traducoespkg.tumblr.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "HeraldoPKG"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "LucasPKG"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Super Mario 64 DS (E).nds",
+                  "crc32": "29715DEC",
+                  "md5": "867B3D17AD268E10357C9754A77147E5",
+                  "sha1": "1367529F2CB23E76EF295CB1727333AE8F0A6CD7",
+                  "sha256": "CE5829AAA79F06C67140ED1F45CBCA738B0A9D0180538C8C1498472D859DB032"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://traducoespkg.tumblr.com/post/656011277273120768/mario-64-ds-download-do-patch-tutorial",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1914",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2021/07/nds-super-mario-64-ds-traducoespkg/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Thor - God of Thunder",
+            "desenvolvedora": "WayForward",
+            "distribuidora": "SEGA",
+            "genero": "Beat 'em up",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2011-04-28"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2019-05-29"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "hnnewgames",
+                    "urls": [
+                      "https://hnnewgamesofficial.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Thor - God of Thunder (Europe) (En,Fr,De,Es,It).nds",
+                  "crc32": "0E594AE6",
+                  "md5": "991398C960743C2D8FB88FF3A3C4A44E",
+                  "sha1": "1435790DF86E95A686D119301E5204E0936E390F",
+                  "sha256": "6F4E96A2795C4992FB309A5FE53B0189600F4F26385F154AB20A58152476F8BD"
+                },
+                {
+                  "nome_arquivo_aplicar": "Thor - God of Thunder (USA) (En,Fr,De,Es,It) [b].nds",
+                  "crc32": "1D8E8CF7",
+                  "md5": "2C6280B4DDF28DEB74C60B2976D651D5",
+                  "sha1": "3963E0608B29E15A3E0FBAD88B8E8947330DA470",
+                  "sha256": "6A32934FC6C7813E0FFF56DBF5E15BFFC89A7B23166415ED99CD4B354C51B108"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://hnnewgamesofficial.blogspot.com/2019/05/thor-god-of-thunder-portugues-ds.html",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=1179",
+              "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://joao13traducoes.com/2019/05/nds-thor-god-of-thunder-hnnewgames/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Warhammer 40,000 - Squad Command",
+            "desenvolvedora": "Ubisoft",
+            "distribuidora": "THQ",
+            "genero": "RPG / Estrat\u00e9gia",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2007-12-06"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2018-09-11"
+              },
+              "percentual_traduzido": 90,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Kassio Cruz"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Warhammer 40,000 - Squad Command (E)(EXiMiUS).nds",
+                  "crc32": "491934C3",
+                  "md5": "58095AFDE846622BC13F40ABB06643A0",
+                  "sha1": "879E2155ED4ACD1AADFEC789F0E78B0EC34FBC3B",
+                  "sha256": "E0652783115BE40CB1693772B648AB5EBD9EF90E8024698138312531665AF45E"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=829",
+              "oficial": true,
+              "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/09/nds-warhammer-40000-squad-command-kassio-cruz/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Zombiez Seeker",
+            "desenvolvedora": "7Raven Studios",
+            "distribuidora": "Zoo Games",
+            "genero": "FPS",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2011-02-08"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2018-09-03"
+              },
+              "percentual_traduzido": 90,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Kassio Cruz"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Zombiez Seeker (USA) (En,Fr,Es).nds",
+                  "crc32": "9269B809",
+                  "md5": "DF3CD37F2BA6AD63BF57B2AB58EE29A3",
+                  "sha1": "C66904B0817BE658C9556E90B0C1FB34FE6DD05D",
+                  "sha256": "C46B310148CA311506AE08981D8C9270162CF80F21332C7CD1CE65977C212E97"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://www.romhacking.net.br/index.php?topic=819",
+              "oficial": true,
+              "possui_link_download": "necessario_login"
+            },
+            {
+              "url": "https://joao13traducoes.com/2018/09/nds-zombies-seeker-kassio-cruz/",
+              "oficial": false,
+              "possui_link_download": "necessario_senha_download_ou_arquivo"
             }
           ]
         }
