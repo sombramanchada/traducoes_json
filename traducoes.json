@@ -390,7 +390,9 @@
                   "nome": "Evil Darkness",
                   "urls": [
                     "http://membres.lycos.fr/edromhack/",
-                    "http://www.edbr.rg3.net"
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
                   ]
                 }
               ],
@@ -1132,7 +1134,9 @@
                   "nome": "Evil Darkness",
                   "urls": [
                     "http://membres.lycos.fr/edromhack/",
-                    "http://www.edbr.rg3.net"
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
                   ]
                 }
               ],
@@ -2627,7 +2631,9 @@
                   "nome": "Evil Darkness",
                   "urls": [
                     "http://membres.lycos.fr/edromhack/",
-                    "http://www.edbr.rg3.net"
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
                   ]
                 }
               ],
@@ -3626,6 +3632,68 @@
             },
             {
               "url": "https://www.romhacking.net/translations/1942/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Spider-Man 2 - The Sinister Six",
+            "desenvolvedora": "Torus Games",
+            "distribuidora": "Activision",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2001-05-30"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2002-09-10"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lohan"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Spider-Man 2 - The Sinister Six (U) [C][!].gbc",
+                  "crc32": "A7FAACCF",
+                  "md5": "85BBAD46380DFFA631F8CE732E9C5D89",
+                  "sha1": "22C63FA198DF68EDB9CBE22E35CBD307174C9EB9",
+                  "sha256": "A17ECDD9DEC7903CACE690CD97ED3E4568940ABD6106CB949C9E95994E5967F9"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/spider-man-2-the-sinister-six-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/spider-man-2-the-sinister-six.html",
               "oficial": false,
               "possui_link_download": "sim"
             }
@@ -5135,6 +5203,979 @@
               "possui_link_download": "sim"
             }
           ]
+        },
+        {
+          "jogo": {
+            "nome": "Pok\u00e9mon Puzzle Challenge",
+            "desenvolvedora": "Intelligent Systems",
+            "distribuidora": "Nintendo",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-09-01"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-01-13"
+              },
+              "grupos": [
+                {
+                  "nome": "Tradumix",
+                  "urls": [
+                    "http://www.tradumix.cjb.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Sergiomhouse"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Pokemon Puzzle Challenge (U) [C][!].gbc",
+                  "crc32": "D06BBA96",
+                  "md5": "F9EC4CC3C9DF3887DC731CCF53663FFB",
+                  "sha1": "BBF952412250AE511B3B862566E424CE6A672F99",
+                  "sha256": "42E6BF3B26F186F1DDF23D2AB0E78DEA423C55562119F1988FFAB906E8F86FE6"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/pokemon-puzzle-challenge-tradumix/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/pok-mon-puzzle-challenge.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Return of the Ninja",
+            "desenvolvedora": "Natsume",
+            "distribuidora": "Natsume",
+            "genero": "Stealth",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "2001-06-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2007-11-11"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Mr. Magoo"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Balboa"
+                  },
+                  "funcao": "Romhacking"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Return of the Ninja (U) [C][!].gbc",
+                  "crc32": "A07DA702",
+                  "md5": "178EA5A9EBA6E7F35E894BAD1EC34F77",
+                  "sha1": "E33352F0AC19D28983EBED0758D022861473EC0E",
+                  "sha256": "EBE140F2C6DCD4E99192D5676B4CFE443A071DAA9FF243A23A26AE98A53FEAD8"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/return-of-the-ninja-mr.magoo-e-balboa/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/return-of-the-ninja.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Shantae",
+            "desenvolvedora": "WayForward",
+            "distribuidora": "Capcom",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2002-06-02"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.1",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2002-12-19"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Made In Brasil (MIB)",
+                  "urls": [
+                    "http://www.madeinbrasil.rg3.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Ifrit Ryudo"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "SSJ Son Lucas"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Japa Boy Junior"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Shantae (U) [C][!].gbc",
+                  "crc32": "E994B59B",
+                  "md5": "028C4262DBB49F4FC462A6EB3E514D72",
+                  "sha1": "520E48C50F6E997FCD841CA368FC9ABC1DBDDEC1",
+                  "sha256": "1B92E22D5510C51BAB97D23074E4AAD7464D93EB15F7596EF7DA0A5EFA27A19D"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/shantae-made-in-brasil/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/shantae.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Star Wars Episode I - Obi-Wan's Adventures",
+            "desenvolvedora": "HotGen Studios",
+            "distribuidora": "THQ",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-11-27"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2002-01-22"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Dark_Blade"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Star Wars Episode I - Obi-Wan\u2019s Adventures (U) [C][!].gbc",
+                  "crc32": "0E697582",
+                  "md5": "484EEB83AD00353272767485ECA59EA5",
+                  "sha1": "FB15A0AE700A11F0925113E5F5C9CB5C655ACDB5",
+                  "sha256": "3D1141EC4547E1809DDC5276C15427E1C1F5932DE132BAFB90DD153BA8F45B38"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/star-wars-episode-i-obi-wans-adventures-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/star-wars-episode-i-obi-wan-s-adventures.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Tetris DX",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "Puzzle",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1998-10-31"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2000-12-16"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Tradu-Roms",
+                  "urls": [
+                    "https://traduroms.github.io/",
+                    "http://traduroms.cjb.net/",
+                    "http://www.traduroms.tsx.org"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Raph_friend",
+                    "urls": [
+                      "http://www.raphsan.cjb.net"
+                    ]
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Tetris DX (JU) [C][!].gbc",
+                  "crc32": "69989152",
+                  "md5": "65973D7A1446346294F8CA9D2D1B7E66",
+                  "sha1": "7183BCB54DD35F3A07D8FE63339B768F13B8168D",
+                  "sha256": "D349DC93423C6ABCD775D3B6A8797DF715A44A42EC837AFB21BF17AE43B40A9E"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/tetris-dx-tradu-roms/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/tetris-dx.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Top Gear Pocket",
+            "desenvolvedora": "Kemco",
+            "distribuidora": "Vision Works",
+            "genero": "Corrida",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1999-03-31"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2003-07-13"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "ShadowSonic"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Top Gear Pocket (U) [C][!].gbc",
+                  "crc32": "84499FC1",
+                  "md5": "809251D6205BC712211FBCAB55190A3A",
+                  "sha1": "F875F5A637FB861A0845B1753B90FE053D0A5A95",
+                  "sha256": "1878A9FA68E052362B0FBB13421DB1AE822FFD74B69DB34217455F9E43CE61DD"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/top-gear-pocket-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/top-gear-pocket.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Wario Land II",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1999-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-01-16"
+              },
+              "percentual_traduzido": 90,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Balboa"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Wario Land II (U) [C][!].gbc",
+                  "crc32": "047BDF80",
+                  "md5": "B7598A51E0ACC0D74CA8F464826371ED",
+                  "sha1": "AE37915058035DF4CEEDD72D709F91EFB4878EFF",
+                  "sha256": "40F366CCD5BD6A9643DC317DB63A286F9104F164F9FC46FF037E548D5E83ED52"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/wario-land-ii-balboa/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/wario-land-ii.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Suzuki Alstare Extreme Racing",
+            "desenvolvedora": "Visual Impact",
+            "distribuidora": "Ubisoft",
+            "genero": "Corrida",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "1999-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "observacao": "A tradu\u00e7\u00e3o foi feita no idioma english.",
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2011-12-31"
+              },
+              "percentual_traduzido": 99,
+              "grupos": [
+                {
+                  "nome": "Disco Voador Romhacking",
+                  "urls": [
+                    "https://disco-voador-romhack.blogspot.com/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Fael Morris"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Suzuki Alstare Extreme Racing (E) (M6) [C][!].gbc",
+                  "crc32": "0F7264BA",
+                  "md5": "54051BC19CE1C0301710D7845717DBAD",
+                  "sha1": "2489B5C2572246EDF3F28F9D62ABCDA9D63B62BF",
+                  "sha256": "5AE217530FACE3C08A434F6D02FA5FB2D3D7769EE849890AF69E3AF429347970"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/suzuki-alstare-extreme-racing-disco-voador-romhacking/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/suzuki-alstare-extreme-racing.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Bionic Commando - Elite Forces",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-01-26"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2014-10-17"
+              },
+              "percentual_traduzido": 98,
+              "grupos": [
+                {
+                  "nome": "Trans-Center",
+                  "urls": [
+                    "https://emulandogba.sites.uol.com.br/index2.html",
+                    "http://www.transcenter.kit.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Merlim"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Bionic Commando - Elite Forces (U) [C][!].gbc",
+                  "crc32": "A663CF31",
+                  "md5": "B3347B3219A7183697E83655F4628827",
+                  "sha1": "33C28A2183F8B95CC2D8E0B6A0B005BFC230F1FC",
+                  "sha256": "209EB947D0C5104264308A3BC769DF48C77B13BE1711DAFF8D51000BC98E4D76"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/bionic-commando-elite-forces-trans-center/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/bionic-commando-elite-forces.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "LEGO Stunt Rally",
+            "desenvolvedora": "Graphic State",
+            "distribuidora": "Lego Media",
+            "genero": "Corrida",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-12-29"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2002-12-13"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "BR Tradu",
+                  "urls": [
+                    "http://www.brtradu.kit.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Emcubador"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "LEGO Stunt Rally (U) [C][!].gbc",
+                  "crc32": "DA084760",
+                  "md5": "C468C6D714A2D86E2F68BDCDBB40B658",
+                  "sha1": "106CB59AC42C3573DCF27B448503AB4D3029D90A",
+                  "sha256": "A89338ABB26BDFC74FCEFCDA505411BD7B5D47F805C779997D6409DC795CB3CD"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/lego-stunt-rally-br-tradu/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/lego-stunt-rally.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "MTV Sports - Skateboarding featuring Andy Macdonald",
+            "desenvolvedora": "Yellowbelly",
+            "distribuidora": "THQ",
+            "genero": "Esportes",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-08-28"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "por_volta_de",
+                "data": "2001-06-??"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Dark_Blade"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "MTV Sports - Skateboarding featuring Andy MacDonald (U) [C][!].gbc",
+                  "crc32": "744561F3",
+                  "md5": "54165D2BF7A040AA31D6D0956408D10D",
+                  "sha1": "91B6E99A68293D72DF74528E8077FAE58D9C33C3",
+                  "sha256": "528C39B67E245EC7CFD5BA1A39F4E1FAF6F11D719DE5B2AE56A59F9D7BA96A6B"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/mtv-sports-skateboarding-featuring-andy-macdonald-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/mtv-sports-skateboarding-featuring-andy-macdonald.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Power Spike - Pro Beach Volleyball",
+            "desenvolvedora": "Spark Creative SARL",
+            "distribuidora": "Infogrames",
+            "genero": "Esportes",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-12-22"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-05-08"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Dark_Blade"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Power Spike - Pro Beach Volleyball (U) [C][!].gbc",
+                  "crc32": "AE57D1C3",
+                  "md5": "AFD9281EAC1EACD73C200CBC69F57B9E",
+                  "sha1": "CBF7377E2DFEA331F983B34486AB7761AC75E3AC",
+                  "sha256": "31B74F6377AEC0043149F6E7C5E9DB8FF0603625FA3C9412D8F8D8E5F479F4F5"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/power-spike-pro-beach-volleyball-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/power-spike-pro-beach-volleyball.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Resident Evil Gaiden",
+            "desenvolvedora": "Capcom",
+            "distribuidora": "Capcom",
+            "genero": "Survival Horror",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2001-12-14"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2002-01-28"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Tramula\u00e7\u00e3o-Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://tramulacao.hpg.com.br"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Griever"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Resident Evil Gaiden (E) (M5) [C][!].gbc",
+                  "crc32": "F85C3F2C",
+                  "md5": "8A7F483857E251D56A16594CA84D1A7E",
+                  "sha1": "2116120A930BD93D5E32CC588ACADB559B0D65E8",
+                  "sha256": "CFDBCCC52246677B3E6DADF38DE0F4D0C5AA4D03EA0376403C584E9840606C62"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/resident-evil-gaiden-tramulacao/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/portuguese/resident-evil-gaiden.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Spider-Man",
+            "desenvolvedora": "Vicarious Visions",
+            "distribuidora": "Activision",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2000-08-31"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-08-31"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Dark_Blade"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Spider-Man (U) [C][!].gbc",
+                  "crc32": "34E2B3BA",
+                  "md5": "9FDE547BCB70B108895E259DA4C4E100",
+                  "sha1": "EA432C3F2B0D92B4CF03D762E273ABC68F45F072",
+                  "sha256": "10D4BF7347F4DD91047DD30D0A078DB5183DD5B7E0E6B38A0C72601232315E55"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/spider-man-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/spider-man.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "The Legend of Zelda - Link's Awakening DX",
+            "desenvolvedora": "Nintendo",
+            "distribuidora": "Nintendo",
+            "genero": "RPG / A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "1998-10-31"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.1",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "1999-06-09"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "CBT",
+                  "urls": [
+                    "http://www.emucamp.com/CBT/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Zero"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Legend of Zelda, The - Link\u2019s Awakening DX (U) (V1.0) [C][!].gbc",
+                  "crc32": "97822948",
+                  "md5": "07C211479386825042EFB4AD31BB525F",
+                  "sha1": "D90AC17E9BF17B6C61624AD9F05447BDB5EFC01A",
+                  "sha256": "C95DD3D9CB798E86C28E3269554E458D434BF3277B96CADF5BC81CFACFB5EE60"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/the-legend-of-zelda-links-awakening-dx-cbt/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/the-legend-of-zelda-link-s-awakening-dx.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Army Men",
+            "desenvolvedora": "Digital Eclipse Software",
+            "distribuidora": "3DO",
+            "genero": "A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "2000-02-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "0.9",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2013-03-24"
+              },
+              "percentual_traduzido": 80,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "patryckpo",
+                    "urls": [
+                      "https://patryckpo.com/",
+                      "https://ab-gamesinc-br.blogspot.com/"
+                    ]
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Army Men (U) (M3) [C][!].gbc",
+                  "crc32": "34411753",
+                  "md5": "C75BF50B9FEC4E89CED9A2BDFBEB4245",
+                  "sha1": "E98CEA1A113BA4774CE26AB16D61625F0870B6AD",
+                  "sha256": "C504BE420E7BFDCF9905FC4D6674FD4B7466E832976A7A48660B901086536D1F"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://patryckpo.com/traducoes/gbc/army-men/",
+              "oficial": false,
+              "possui_link_download": "links_download_inativo"
+            },
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-color/army-men-patryck/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy/brazilian-portuguese/army-men.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
         }
       ]
     },
@@ -5285,6 +6326,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/dragon-ball-z-the-legacy-of-goku-tradu-roms/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/dragon-ball-z-the-legacy-of-goku.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -5347,6 +6393,11 @@
               "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/megaman-zero-tradu-roms/",
               "oficial": false,
               "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -5413,6 +6464,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-dku.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -5552,6 +6608,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-metroid-fusion-tradu-roms-trans-center-e-pobre/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-fusion.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -5783,7 +6844,9 @@
                   "nome": "Evil Darkness",
                   "urls": [
                     "http://membres.lycos.fr/edromhack/",
-                    "http://www.edbr.rg3.net"
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
                   ]
                 }
               ],
@@ -5882,6 +6945,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-2-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-2.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -5961,6 +7029,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-3-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-3.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6027,6 +7100,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-mega-man-zero-4-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/megaman-zero-4.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6111,6 +7189,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/shaman-king-master-of-spirits.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6183,6 +7266,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-shaman-king-master-of-spirits-2-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/shaman-king-master-of-spirits-2.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6261,6 +7349,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-metroid-zero-mission-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/metroid-zero-mission.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6345,6 +7438,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-castlevania-harmony-of-dissonance-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-harmony-of-dissonance.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6436,6 +7534,11 @@
             },
             {
               "url": "https://www.romhacking.net/translations/3361/",
+              "oficial": false,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/yu-yu-hakusho-tournament-tactics.html",
               "oficial": false,
               "possui_link_download": "sim"
             }
@@ -6600,6 +7703,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-circle-of-the-moon.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6690,6 +7798,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-castlevania-circle-of-the-moon-trans-center-e-pobre/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/castlevania-aria-of-sorrow.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -6898,6 +8011,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-legend-of-zelda-minish-cap-heroes-of-time-trans-center-pobre-e-projeto-br/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-the-minish-cap.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -7029,6 +8147,11 @@
           ],
           "paginas_traducao": [
             {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/",
+              "oficial": true,
+              "possui_link_download": "nao"
+            },
+            {
               "url": "https://www.romhacking.net.br/index.php?topic=2287",
               "oficial": true,
               "possui_link_download": "necessario_login"
@@ -7039,11 +8162,6 @@
               "possui_link_download": "sim"
             },
             {
-              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/the-legend-of-zelda:-a-link-to-the-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/",
-              "oficial": false,
-              "possui_link_download": "nao"
-            },
-            {
               "url": "https://www.romhacking.net/translations/5277/",
               "oficial": false,
               "possui_link_download": "sim"
@@ -7052,6 +8170,11 @@
               "url": "https://joao13traducoes.com/2018/03/gba-legend-of-zelda-link-to-past-and-four-swords-hyrule-legends-monkeys-traducoes-e-trans-center/",
               "oficial": false,
               "possui_link_download": "necessario_senha_download_ou_arquivo"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/the-legend-of-zelda-a-link-to-the-past-four-swords.html",
+              "oficial": false,
+              "possui_link_download": "sim"
             }
           ]
         },
@@ -8365,6 +9488,530 @@
             {
               "url": "https://tiozinhopobre.wixsite.com/repositorio",
               "oficial": true,
+              "possui_link_download": "sim"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crazy-chase.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Army Men Advance",
+            "desenvolvedora": "DC Studios",
+            "distribuidora": "3DO",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2001-06-10"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "provavelmente",
+                "data": "2001-11-18"
+              },
+              "percentual_traduzido": 98,
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lohan"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Army Men Advance (UE) (M5) [!].gba",
+                  "crc32": "9A4A509F",
+                  "md5": "30FF69A44658FCF2CC381736403E74EF",
+                  "sha1": "43CD22C8E5832790B0CDBDCF0E11859021747342",
+                  "sha256": "D49331D145B3A191B2844A06E803D3894804F7541A9D623A039B1E4EA84DAC97"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/army-men-advance-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/army-men-advance.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Avatar - The Last Airbender",
+            "desenvolvedora": "Halfbrick",
+            "distribuidora": "THQ",
+            "genero": "RPG / A\u00e7\u00e3o",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2006-10-10"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2010-02-24"
+              },
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Tony Paix\u00e3o"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Avatar - The Last Airbender (U).gba",
+                  "crc32": "946787C0",
+                  "md5": "C19779D04914FAE7268BFB8B47B8B048",
+                  "sha1": "9D864E9B3CCCE4E5E1B1C566AFA0D06088E88DFD",
+                  "sha256": "67DF1EDD696BFEFA9F169AB03F1ECA300C0EFA336ACF0DA7FFF8499D69FBE99A"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/avatar-the-last-airbender-tony-paixao/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/avatar-the-last-airbender.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Batman - Rise of Sin Tzu",
+            "desenvolvedora": "Ubisoft",
+            "distribuidora": "Ubisoft",
+            "genero": "Beat 'em up",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2003-10-14"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2005-06-25"
+              },
+              "percentual_traduzido": 100,
+              "grupos": [
+                {
+                  "nome": "TransFac",
+                  "urls": [
+                    "http://www.transfac.cjb.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Mestre Splinter"
+                  },
+                  "funcao": "Completo"
+                },
+                {
+                  "autor": {
+                    "nome": "Goku ssj4"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Batman - Rise of Sin Tzu (U) (M3) [hI].gba",
+                  "crc32": "9AE450C4",
+                  "md5": "B980D738CD7E4978CF7C8A53FF0ECE58",
+                  "sha1": "458AC149882B206B19E685A57087A5D5B4F1F26D",
+                  "sha256": "9B54C93F056552E7974B0DB673F92135F7EC6FB4B0B7707F85B9769D4491442A"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/batman-rise-of-sin-tzu-transfac/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/batman-rise-of-sin-tzu.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "BlackThorne",
+            "desenvolvedora": "Mass Media",
+            "distribuidora": "Blizzard",
+            "genero": "A\u00e7\u00e3o / Tiro",
+            "lancamento": {
+              "precisao": "por_volta_de",
+              "data": "2003-??-??"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2009-01-04"
+              },
+              "percentual_traduzido": 100,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Mr. Magoo"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "BlackThorne (U).gba",
+                  "crc32": "8E6DCD53",
+                  "md5": "D0BB79FB5A05702CE8B7D03320FCDF52",
+                  "sha1": "8F7F8C2051130B881E1FC131360CBC4946A63535",
+                  "sha256": "2699EA8F2848DC41A5A22DD2ED236C3B8502FAD04F9AFF0B7E39CC898EF27DB8"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/blackthorne-mr.magoo/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/blackthorne.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Contra Advance - The Alien Wars EX",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Konami",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2002-11-03"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.1",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2007-07-14"
+              },
+              "percentual_traduzido": 96,
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "#Dandy-Br"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Contra Advance - The Alien Wars EX (U) [hI].gba",
+                  "crc32": "D280B988",
+                  "md5": "DEB9740C2871D0729A9B00386D22DBA6",
+                  "sha1": "BB6E3A3B66AAD9FB9B3EB700FBB9AA2BB6CE065A",
+                  "sha256": "02286AB52784CFD8069C1B57290919509E658E13CE82D6F735CF2DAC4B16160E"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-dandy-br/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Contra Advance - The Alien Wars EX",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Konami",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2002-11-03"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2003-03-09"
+              },
+              "grupos": [
+                {
+                  "nome": "Evil Darkness",
+                  "urls": [
+                    "http://membres.lycos.fr/edromhack/",
+                    "http://www.edbr.rg3.net",
+                    "http://www.evildarkness.rg3.net/",
+                    "http://www.evildarkness.tsx.org/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Lohan"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Contra Advance - The Alien Wars EX (U) [hI].gba",
+                  "crc32": "D280B988",
+                  "md5": "DEB9740C2871D0729A9B00386D22DBA6",
+                  "sha1": "BB6E3A3B66AAD9FB9B3EB700FBB9AA2BB6CE065A",
+                  "sha256": "02286AB52784CFD8069C1B57290919509E658E13CE82D6F735CF2DAC4B16160E"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-evil-darkness/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex-exj.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Contra Advance - The Alien Wars EX",
+            "desenvolvedora": "Konami",
+            "distribuidora": "Konami",
+            "genero": "Run 'n gun",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2002-11-03"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2004-08-19"
+              },
+              "grupos": [
+                {
+                  "nome": "Lordroms Tradu\u00e7\u00f5es",
+                  "urls": [
+                    "http://www.lordroms.rg3.net/"
+                  ]
+                },
+                {
+                  "nome": "Fox-Roms",
+                  "urls": [
+                    "http://www.foxroms.cjb.net/"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "\u00d8X-Carnage"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Contra Advance - The Alien Wars EX (U) [hI].gba",
+                  "crc32": "D280B988",
+                  "md5": "DEB9740C2871D0729A9B00386D22DBA6",
+                  "sha1": "BB6E3A3B66AAD9FB9B3EB700FBB9AA2BB6CE065A",
+                  "sha256": "02286AB52784CFD8069C1B57290919509E658E13CE82D6F735CF2DAC4B16160E"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/contra-advance-the-alien-wars-ex-fox-roms/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/contra-advance-the-alien-wars-ex-drn.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Crash Bandicoot 2 - N-Tranced",
+            "desenvolvedora": "Vicarious Visions",
+            "distribuidora": "Universal Interactive",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2003-01-07"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "por_volta_de",
+                "data": "2003-02-??"
+              },
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "DarkPro"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Crash Bandicoot 2 - N-Tranced (U).gba",
+                  "crc32": "2E16184A",
+                  "md5": "617B2B2590E2925228DBDB162B05D6F6",
+                  "sha1": "972158859EA08AA5746AB2E0D4C81AC43728ADFF",
+                  "sha256": "2623DF1C9D91B5E9B2C1488E4A1632F14B9D1BC87C14F4DADCA417FD1DDA5AB1"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-2-n-tranced-darkpro/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-2-n-tranced.html",
+              "oficial": false,
+              "possui_link_download": "sim"
+            }
+          ]
+        },
+        {
+          "jogo": {
+            "nome": "Crash Bandicoot Fusion",
+            "desenvolvedora": "Vicarious Visions",
+            "distribuidora": "Vivendi Games",
+            "genero": "A\u00e7\u00e3o / Plataforma",
+            "lancamento": {
+              "precisao": "exatamente",
+              "data": "2004-06-25"
+            }
+          },
+          "versoes_traducoes": [
+            {
+              "versao": "1.0",
+              "ultima_versao": true,
+              "lancamento": {
+                "precisao": "exatamente",
+                "data": "2006-09-12"
+              },
+              "grupos": [
+                {
+                  "nome": "Tradu-GameX",
+                  "urls": [
+                    "http://br.geocities.com/tgxromhack",
+                    "http://tradu-gamex.clic3.net",
+                    "http://grupotgx.rg3.net",
+                    "http://tradu-gamex.cjb.net"
+                  ]
+                }
+              ],
+              "autores": [
+                {
+                  "autor": {
+                    "nome": "Seven"
+                  },
+                  "funcao": "Completo"
+                }
+              ],
+              "aplicar_patchs_em": [
+                {
+                  "nome_arquivo_aplicar": "Crash Bandicoot Fusion (E) (M5).gba",
+                  "crc32": "F24C8E77",
+                  "md5": "15E37FB594C2DFE85B8B7BA3B7E565BD",
+                  "sha1": "E29CB4309D2E94974C34DCEA42C8AB7E90134B55",
+                  "sha256": "D8A82041DCF3D561B2B67CA85C1963C80A1E02E9F7B22716A5FDBACF1A3FBA1F"
+                }
+              ]
+            }
+          ],
+          "paginas_traducao": [
+            {
+              "url": "https://romhackers.org/traducoes/portatil/game-boy-advance/crash-bandicoot-fusion-tradu-gamex/",
+              "oficial": false,
+              "possui_link_download": "nao"
+            },
+            {
+              "url": "https://www.zophar.net/translations/gameboy-advance/brazilian-portuguese/crash-bandicoot-fusion.html",
+              "oficial": false,
               "possui_link_download": "sim"
             }
           ]
